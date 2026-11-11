@@ -11,3 +11,5 @@ Per pubblicare su GitHub Pages carica index.html nella root del repository e att
 Per personalizzare i luoghi modifica l’array places in index.html. luoghi.json è una copia dei dati iniziali.
 
 Pulsante fisso “Riportami in hotel”: indicazioni Google Maps a piedi verso Grand Hotel Santa Lucia, Via Partenope 46, Napoli. Maps gestisce il punto di partenza e i permessi di posizione.
+
+Catalogo aggiornato: 48 posti, con 22 aggiunte indicate dal proprietario. Sorbillo, Di Matteo, Gambrinus, Via Chiaia e Via Scarlatti erano già presenti e non sono duplicati. Fonti e indirizzi dei nuovi locali sono riportati in luoghi.json. Coordinate da OpenStreetMap/Nominatim; alcuni punti rappresentano una posizione indicativa sulla strada o sul belvedere. Google Maps riceve nome e indirizzo per trovare la destinazione.
