@@ -8,7 +8,8 @@
     "file": "File:Immagine d'insieme 2, Cappella Sansevero.jpg",
     "local": "assets/napoli-20.jpg",
     "kind": "place",
-    "label": "Foto: Cappella Sansevero"
+    "label": "Foto: Cappella Sansevero",
+    "fallback": "assets/complete-34.jpg"
   },
   "1": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Spaccanapoli_da_s_Elmo_1050131.JPG/960px-Spaccanapoli_da_s_Elmo_1050131.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -19,7 +20,8 @@
     "file": "File:Spaccanapoli da s Elmo 1050131.JPG",
     "local": "assets/napoli-2.jpg",
     "kind": "place",
-    "label": "Foto: Spaccanapoli"
+    "label": "Foto: Spaccanapoli",
+    "fallback": "assets/complete-34.jpg"
   },
   "2": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Napoli_-_Via_San_Gregorio_Armeno.JPG/960px-Napoli_-_Via_San_Gregorio_Armeno.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -30,7 +32,8 @@
     "file": "File:Napoli - Via San Gregorio Armeno.JPG",
     "local": "assets/napoli-14.jpg",
     "kind": "place",
-    "label": "Foto: San Gregorio Armeno"
+    "label": "Foto: San Gregorio Armeno",
+    "fallback": "assets/complete-34.jpg"
   },
   "3": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Naples_Cathedral_-_Duomo_di_Napoli%2C_Fa%C3%A7ade_%285315-Pan%29.jpg/960px-Naples_Cathedral_-_Duomo_di_Napoli%2C_Fa%C3%A7ade_%285315-Pan%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -41,7 +44,8 @@
     "file": "File:Naples Cathedral - Duomo di Napoli, Façade (5315-Pan).jpg",
     "local": "assets/napoli-33.jpg",
     "kind": "place",
-    "label": "Foto: Duomo di Napoli"
+    "label": "Foto: Duomo di Napoli",
+    "fallback": "assets/complete-34.jpg"
   },
   "4": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Certosa_Santa_Chiara_03.JPG/960px-Certosa_Santa_Chiara_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -52,7 +56,8 @@
     "file": "File:Certosa Santa Chiara 03.JPG",
     "local": "assets/napoli-18.jpg",
     "kind": "place",
-    "label": "Foto: Santa Chiara"
+    "label": "Foto: Santa Chiara",
+    "fallback": "assets/complete-34.jpg"
   },
   "5": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/P.Plebiscito_Napoli.jpg/960px-P.Plebiscito_Napoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -63,7 +68,8 @@
     "file": "File:P.Plebiscito Napoli.jpg",
     "local": "assets/napoli-35.jpg",
     "kind": "place",
-    "label": "Foto: Piazza del Plebiscito"
+    "label": "Foto: Piazza del Plebiscito",
+    "fallback": "assets/complete-34.jpg"
   },
   "6": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Museo_Archeologico_Nazionale_di_Napoli_-_panoramio_%281%29.jpg/960px-Museo_Archeologico_Nazionale_di_Napoli_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -74,7 +80,8 @@
     "file": "File:Museo Archeologico Nazionale di Napoli - panoramio (1).jpg",
     "local": "assets/napoli-26.jpg",
     "kind": "place",
-    "label": "Foto: Museo Archeologico Nazionale"
+    "label": "Foto: Museo Archeologico Nazionale",
+    "fallback": "assets/complete-34.jpg"
   },
   "7": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Napoli_Sotterranea_1.jpg/960px-Napoli_Sotterranea_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -85,7 +92,8 @@
     "file": "File:Napoli Sotterranea 1.jpg",
     "local": "assets/napoli-37.jpg",
     "kind": "place",
-    "label": "Foto: Napoli Sotterranea"
+    "label": "Foto: Napoli Sotterranea",
+    "fallback": "assets/complete-34.jpg"
   },
   "8": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pizzeria_Da_Michele%2C_Napoli.jpg/960px-Pizzeria_Da_Michele%2C_Napoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -95,7 +103,8 @@
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
     "kind": "place",
-    "label": "Foto: Da Michele"
+    "label": "Foto: Da Michele",
+    "fallback": "assets/complete-45.jpg"
   },
   "9": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Via_dei_Tribunali_-_Pizzeria_Gino_Sorbillo_-_panoramio.jpg/960px-Via_dei_Tribunali_-_Pizzeria_Gino_Sorbillo_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -105,19 +114,30 @@
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
     "kind": "place",
-    "label": "Foto: Sorbillo"
+    "label": "Foto: Sorbillo",
+    "fallback": "assets/complete-45.jpg"
   },
   "10": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://anticapizzeriadimatteo.it/wp-content/uploads/2022/07/DiMatteoIMG-10.jpg",
+    "local": "https://anticapizzeriadimatteo.it/wp-content/uploads/2022/07/DiMatteoIMG-10.jpg",
+    "source": "https://anticapizzeriadimatteo.it/",
+    "author": "Antica Pizzeria Di Matteo",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://anticapizzeriadimatteo.it/",
+    "kind": "place",
+    "label": "Foto storica: Di Matteo",
+    "fallback": "assets/complete-45.jpg"
   },
   "11": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Ragu_alla_napoletana_008.jpg/960px-Ragu_alla_napoletana_008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Ragu_alla_napoletana_008.jpg",
+    "author": "Kagor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "local": "assets/complete-11.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Tandem Ragù",
+    "fallback": "assets/complete-45.jpg"
   },
   "12": {
     "url": "https://scaturchio.it/wp-content/themes/scaturchio/assets/homepage/scaturchio.JPG",
@@ -127,7 +147,8 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://scaturchio.it/",
     "kind": "place",
-    "label": "Foto: Scaturchio"
+    "label": "Foto: Scaturchio",
+    "fallback": "assets/complete-45.jpg"
   },
   "13": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Gambrinus01.jpg/960px-Gambrinus01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -138,13 +159,20 @@
     "file": "File:Gambrinus01.jpg",
     "local": "assets/napoli-17.jpg",
     "kind": "place",
-    "label": "Foto: Gambrinus"
+    "label": "Foto: Gambrinus",
+    "fallback": "assets/complete-45.jpg"
   },
   "14": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Sfogliatelle_on_plate.jpg/960px-Sfogliatelle_on_plate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Sfogliatelle_on_plate.jpg",
+    "author": "stu_spivack",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "description": "Photograph of a sfogliatelle pastry, showing texture and detail.",
+    "local": "assets/complete-14.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Sfogliatelle Attanasio",
+    "fallback": "assets/complete-45.jpg"
   },
   "15": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Sant%27Elmo_e_San_Martino_Napoli3.jpg/960px-Sant%27Elmo_e_San_Martino_Napoli3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -155,7 +183,8 @@
     "file": "File:Sant'Elmo e San Martino Napoli3.jpg",
     "local": "assets/napoli-9.jpg",
     "kind": "place",
-    "label": "Foto: Belvedere San Martino"
+    "label": "Foto: Belvedere San Martino",
+    "fallback": "assets/napoli-28.jpg"
   },
   "16": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/4433_SantElmo.jpg/960px-4433_SantElmo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -166,7 +195,8 @@
     "file": "File:4433 SantElmo.jpg",
     "local": "assets/napoli-28.jpg",
     "kind": "place",
-    "label": "Foto: Castel Sant'Elmo"
+    "label": "Foto: Castel Sant'Elmo",
+    "fallback": "assets/napoli-28.jpg"
   },
   "17": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Via_Caracciolo_100_3932.JPG/960px-Via_Caracciolo_100_3932.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -177,7 +207,8 @@
     "file": "File:Via Caracciolo 100 3932.JPG",
     "local": "assets/napoli-21.jpg",
     "kind": "place",
-    "label": "Foto: Lungomare Caracciolo"
+    "label": "Foto: Lungomare Caracciolo",
+    "fallback": "assets/napoli-28.jpg"
   },
   "18": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Borgo_marinari.JPG/960px-Borgo_marinari.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -188,7 +219,8 @@
     "file": "File:Borgo marinari.JPG",
     "local": "assets/napoli-19.jpg",
     "kind": "place",
-    "label": "Foto: Borgo Marinari"
+    "label": "Foto: Borgo Marinari",
+    "fallback": "assets/napoli-28.jpg"
   },
   "19": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/IngressoVir.jpg/960px-IngressoVir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -199,7 +231,8 @@
     "file": "File:IngressoVir.jpg",
     "local": "assets/napoli-30.jpg",
     "kind": "place",
-    "label": "Foto: Parco Virgiliano"
+    "label": "Foto: Parco Virgiliano",
+    "fallback": "assets/napoli-28.jpg"
   },
   "20": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Napoli_-_Panoramica_su_Piazza_Bellini.jpg/960px-Napoli_-_Panoramica_su_Piazza_Bellini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -209,13 +242,20 @@
     "license": "CC BY-SA 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "kind": "place",
-    "label": "Foto: Piazza Bellini"
+    "label": "Foto: Piazza Bellini",
+    "fallback": "assets/complete-39.jpg"
   },
   "21": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Venice_spritz.jpg/960px-Venice_spritz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Venice_spritz.jpg",
+    "author": "Ponstos Lovdbrego",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "venice spritz",
+    "local": "assets/complete-21.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Baretti di Chiaia",
+    "fallback": "assets/complete-39.jpg"
   },
   "22": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Napoli_-_piazza_San_Domenico_Maggiore_e_guglia.jpg/960px-Napoli_-_piazza_San_Domenico_Maggiore_e_guglia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -226,7 +266,8 @@
     "file": "File:Napoli - piazza San Domenico Maggiore e guglia.jpg",
     "local": "assets/napoli-29.jpg",
     "kind": "place",
-    "label": "Foto: Piazza San Domenico Maggiore"
+    "label": "Foto: Piazza San Domenico Maggiore",
+    "fallback": "assets/complete-39.jpg"
   },
   "23": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Napoli_-_Toledo_aka_Via_Roma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -237,7 +278,8 @@
     "file": "File:Napoli - Toledo aka Via Roma.jpg",
     "local": "assets/napoli-27.jpg",
     "kind": "place",
-    "label": "Foto: Via Toledo"
+    "label": "Foto: Via Toledo",
+    "fallback": "assets/complete-33.jpg"
   },
   "24": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/ViaChiaiaNapoli.jpg/960px-ViaChiaiaNapoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -248,7 +290,8 @@
     "file": "File:ViaChiaiaNapoli.jpg",
     "local": "assets/napoli-6.jpg",
     "kind": "place",
-    "label": "Foto: Via Chiaia"
+    "label": "Foto: Via Chiaia",
+    "fallback": "assets/complete-33.jpg"
   },
   "25": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Napoli%2C_Vomero_-_Via_Alessandro_Scarlatti_by_night_1.JPG/960px-Napoli%2C_Vomero_-_Via_Alessandro_Scarlatti_by_night_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -259,7 +302,8 @@
     "file": "File:Napoli, Vomero - Via Alessandro Scarlatti by night 1.JPG",
     "local": "assets/napoli-3.jpg",
     "kind": "place",
-    "label": "Foto: Via Scarlatti"
+    "label": "Foto: Via Scarlatti",
+    "fallback": "assets/complete-33.jpg"
   },
   "26": {
     "url": "https://www.mimiallaferrovia.it/wp-content/uploads/2019/10/intro.jpg",
@@ -269,7 +313,8 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://www.mimiallaferrovia.it/",
     "kind": "place",
-    "label": "Foto: Mimì alla Ferrovia"
+    "label": "Foto: Mimì alla Ferrovia",
+    "fallback": "assets/complete-45.jpg"
   },
   "27": {
     "url": "https://www.upnea.it/wp-content/uploads/2024/12/home-hero-1024x533.webp",
@@ -279,19 +324,32 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://www.upnea.it/",
     "kind": "place",
-    "label": "Foto: Salumeria Upnea"
+    "label": "Foto: Salumeria Upnea",
+    "fallback": "assets/complete-45.jpg"
   },
   "28": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Aperitivo_a_Bologna.jpg/960px-Aperitivo_a_Bologna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Aperitivo_a_Bologna.jpg",
+    "author": "Giacomo Alessandroni",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Aperitivo a Bologna",
+    "local": "assets/complete-28.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Tappò Tapas Bar",
+    "fallback": "assets/complete-39.jpg"
   },
   "29": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Espresso_Coffee_01.jpg/960px-Espresso_Coffee_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Espresso_Coffee_01.jpg",
+    "author": "Jubair1985",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "description": "Espresso Coffee",
+    "local": "assets/complete-29.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Caffè Letterario Intra Moenia",
+    "fallback": "assets/complete-39.jpg"
   },
   "30": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Naples_piazza_gesu_nuovo.JPG/960px-Naples_piazza_gesu_nuovo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -301,13 +359,20 @@
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "kind": "place",
-    "label": "Foto: Piazza del Gesù Nuovo"
+    "label": "Foto: Piazza del Gesù Nuovo",
+    "fallback": "assets/complete-34.jpg"
   },
   "31": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Sfogliatelle_ricce_e_frolle.jpg/960px-Sfogliatelle_ricce_e_frolle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Sfogliatelle_ricce_e_frolle.jpg",
+    "author": "Saggittarius A",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Vassoio con sfogliatelle ricce e folle di Napoli.",
+    "local": "assets/complete-31.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Sfogliatella Mary",
+    "fallback": "assets/complete-45.jpg"
   },
   "32": {
     "url": "https://www.pasticceriapintauro1785.it/wp-content/uploads/2026/03/SOCIAL-0018_pintauro_003.jpg",
@@ -317,31 +382,56 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://www.pasticceriapintauro1785.it/",
     "kind": "place",
-    "label": "Foto: Pintauro"
+    "label": "Foto: Pintauro",
+    "fallback": "assets/complete-45.jpg"
   },
   "33": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Via_Filangieri.jpg/960px-Via_Filangieri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Via_Filangieri.jpg",
+    "author": "Baku",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "via Filangieri",
+    "local": "assets/complete-33.jpg",
+    "kind": "place",
+    "label": "Foto: Via Filangieri",
+    "fallback": "assets/complete-33.jpg"
   },
   "34": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Napoli_-_Murales_Maradona_a_Montecalvario.jpeg/960px-Napoli_-_Murales_Maradona_a_Montecalvario.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Napoli_-_Murales_Maradona_a_Montecalvario.jpeg",
+    "author": "Nadia Alessandra Sassi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Murales",
+    "local": "assets/complete-34.jpg",
+    "kind": "place",
+    "label": "Foto: Murales di Maradona",
+    "fallback": "assets/complete-34.jpg"
   },
   "35": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Melanzane_alla_Parmigiana.jpg/960px-Melanzane_alla_Parmigiana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Melanzane_alla_Parmigiana.jpg",
+    "author": "Flickr.com user \"Blue Lotus\"",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "description": "Melanzane alla Parmigiana, baked aubergines with Parmesan cheese.",
+    "local": "assets/complete-35.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Locanda 'Ntretella",
+    "fallback": "assets/complete-45.jpg"
   },
   "36": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Spaghetti_alle_vongole.jpg/960px-Spaghetti_alle_vongole.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Spaghetti_alle_vongole.jpg",
+    "author": "Flickr user: [2], retouched by AM",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "description": "Spaghetti alle vongole",
+    "local": "assets/complete-36.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Il Gobbetto",
+    "fallback": "assets/complete-45.jpg"
   },
   "37": {
     "url": "https://pizzeriestarita.it/wp-content/uploads/2023/02/7_SLIDER_IMG-1024x604.png",
@@ -351,7 +441,8 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://pizzeriestarita.it/",
     "kind": "place",
-    "label": "Foto: Starita a Materdei"
+    "label": "Foto: Starita a Materdei",
+    "fallback": "assets/complete-45.jpg"
   },
   "38": {
     "url": "https://www.pizzeriasalvo.it/wp-content/uploads/2023/02/Margherita-pop-1024x1024.webp",
@@ -361,13 +452,20 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://www.pizzeriasalvo.it/",
     "kind": "place",
-    "label": "Foto: Pizzeria Salvo – Riviera di Chiaia"
+    "label": "Foto: Pizzeria Salvo – Riviera di Chiaia",
+    "fallback": "assets/complete-45.jpg"
   },
   "39": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Negroni_on_the_Rocks.jpg/960px-Negroni_on_the_Rocks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Negroni_on_the_Rocks.jpg",
+    "author": "Will Shenton",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "Negroni cocktail on the rocks with a lemon twist.",
+    "local": "assets/complete-39.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · L'Antiquario",
+    "fallback": "assets/complete-39.jpg"
   },
   "40": {
     "url": "https://mtmagazine.it/wp-content/uploads/2024/11/Cocktail-bar_chiaia-1.jpg",
@@ -377,19 +475,31 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://mtmagazine.it/inserzioni/flanagans/",
     "kind": "place",
-    "label": "Foto: Flanagan's"
+    "label": "Foto: Flanagan's",
+    "fallback": "assets/complete-39.jpg"
   },
   "41": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/C%C3%B3ctel_Negroni_Campari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "source": "https://commons.wikimedia.org/wiki/File:C%C3%B3ctel_Negroni_Campari.jpg",
+    "author": "Desdealbert00",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Cóctel Negroni Campari",
+    "local": "assets/complete-41.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Happening",
+    "fallback": "assets/complete-39.jpg"
   },
   "42": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Pizza_Margherita_in_Naples_2015.JPG/960px-Pizza_Margherita_in_Naples_2015.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Pizza_Margherita_in_Naples_2015.JPG",
+    "author": "Kos88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "local": "assets/complete-42.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · 50 Kalò",
+    "fallback": "assets/complete-45.jpg"
   },
   "43": {
     "url": "https://www.trattoriadacicciotto.it/wp-content/uploads/2021/10/gallery-ristorante-cicciotto-a-marechiaro-foto-2-1.jpg",
@@ -399,7 +509,8 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://www.trattoriadacicciotto.it/",
     "kind": "place",
-    "label": "Foto: Cicciotto a Marechiaro"
+    "label": "Foto: Cicciotto a Marechiaro",
+    "fallback": "assets/complete-45.jpg"
   },
   "44": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Monte_Echia%2C_Napoli%2C_Italia_-_2024.jpg/960px-Monte_Echia%2C_Napoli%2C_Italia_-_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -410,13 +521,20 @@
     "file": "File:Monte Echia, Napoli, Italia - 2024.jpg",
     "local": "assets/napoli-38.jpg",
     "kind": "place",
-    "label": "Foto: Ascensore di Monte Echia"
+    "label": "Foto: Ascensore di Monte Echia",
+    "fallback": "assets/napoli-28.jpg"
   },
   "45": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Pizza_napoletana.jpg/960px-Pizza_napoletana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Pizza_napoletana.jpg",
+    "author": "Ultimatehope01",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Pizza napoletana tipica",
+    "local": "assets/complete-45.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Pizzeria Acunzo",
+    "fallback": "assets/complete-45.jpg"
   },
   "46": {
     "url": "https://www.gorizia1916.com/wp-content/uploads/2026/03/Foto-Istituzionale-Gorizia-749x1024.jpg",
@@ -426,7 +544,8 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://www.gorizia1916.com/about/",
     "kind": "place",
-    "label": "Foto: Gorizia 1916"
+    "label": "Foto: Gorizia 1916",
+    "fallback": "assets/complete-45.jpg"
   },
   "47": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/PVanvitelli.jpg/960px-PVanvitelli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -437,7 +556,8 @@
     "file": "File:PVanvitelli.jpg",
     "local": "assets/napoli-32.jpg",
     "kind": "place",
-    "label": "Foto: Piazza Vanvitelli"
+    "label": "Foto: Piazza Vanvitelli",
+    "fallback": "assets/complete-34.jpg"
   },
   "48": {
     "url": "https://napoli.terrazzacalabritto.it/wp-content/uploads/sites/3/2022/09/terr-75-scaled.jpg",
@@ -447,13 +567,20 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://napoli.terrazzacalabritto.it/",
     "kind": "place",
-    "label": "Foto: Terrazza Calabritto"
+    "label": "Foto: Terrazza Calabritto",
+    "fallback": "assets/complete-45.jpg"
   },
   "49": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Seafood_pasta_01.jpg/960px-Seafood_pasta_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Seafood_pasta_01.jpg",
+    "author": "Marife.altabano",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Seafood pasta",
+    "local": "assets/complete-49.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Coco Loco",
+    "fallback": "assets/complete-45.jpg"
   },
   "50": {
     "url": "https://j-japaneserestaurant.com/content/uploads/2025/01/j-napoli.jpeg",
@@ -463,7 +590,8 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://j-japaneserestaurant.com/ristoranti/j-japanese-restaurant-napoli/",
     "kind": "place",
-    "label": "Foto: J Contemporary Japanese Restaurant"
+    "label": "Foto: J Contemporary Japanese Restaurant",
+    "fallback": "assets/complete-45.jpg"
   },
   "51": {
     "url": "https://www.ruriexperience.com/wp-content/uploads/2025/07/slider-pg-kaiseki-def-2.jpg",
@@ -473,7 +601,8 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://www.ruriexperience.com/ruri-kaiseki/",
     "kind": "place",
-    "label": "Foto: Ruri Kaiseki"
+    "label": "Foto: Ruri Kaiseki",
+    "fallback": "assets/complete-45.jpg"
   },
   "52": {
     "url": "https://www.umberto.it/wp-content/uploads/2024/08/Margherita-con-Bufala-.jpg",
@@ -483,13 +612,19 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://www.umberto.it/it/",
     "kind": "place",
-    "label": "Foto: Umberto"
+    "label": "Foto: Umberto",
+    "fallback": "assets/complete-45.jpg"
   },
   "53": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Spaghetti_con_Vongole_by_naotakem.jpg/960px-Spaghetti_con_Vongole_by_naotakem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Spaghetti_con_Vongole_by_naotakem.jpg",
+    "author": "naotakem from San Francisco",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "local": "assets/complete-53.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Osteria della Mattonella",
+    "fallback": "assets/complete-45.jpg"
   },
   "54": {
     "url": "https://www.lalocandagesuvecchionapoli.it/wp-content/uploads/elementor/thumbs/L1000063-min-scaled-r3ohipqmxsm5tpbk9ixvocz0dhj55tmcxfa86in16g.jpg",
@@ -499,7 +634,8 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://www.lalocandagesuvecchionapoli.it/",
     "kind": "place",
-    "label": "Foto: La Locanda Gesù Vecchio"
+    "label": "Foto: La Locanda Gesù Vecchio",
+    "fallback": "assets/complete-45.jpg"
   },
   "55": {
     "url": "https://www.pizzeriadattilio.it/wp-content/uploads/2026/05/Attilio_banner-menu2.jpg.jpeg",
@@ -509,19 +645,31 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://www.pizzeriadattilio.it/",
     "kind": "place",
-    "label": "Foto: Pizzeria Da Attilio"
+    "label": "Foto: Pizzeria Da Attilio",
+    "fallback": "assets/complete-45.jpg"
   },
   "56": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/White_Wine_Glas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "source": "https://commons.wikimedia.org/wiki/File:White_Wine_Glas.jpg",
+    "author": "André Karwath aka Aka\n",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "description": "This image shows a white wine glass (WMF Easy) with white wine.",
+    "local": "assets/complete-56.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Enoteca Belledonne",
+    "fallback": "assets/complete-39.jpg"
   },
   "57": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Dargett_Craft_Beer%2C_Belgian_tripel_and_Bohemian_pilsner.jpg/960px-Dargett_Craft_Beer%2C_Belgian_tripel_and_Bohemian_pilsner.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Dargett_Craft_Beer,_Belgian_tripel_and_Bohemian_pilsner.jpg",
+    "author": "Preacher lad",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "local": "assets/complete-57.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Mosto – Chiaia",
+    "fallback": "assets/complete-39.jpg"
   },
   "58": {
     "url": "https://www.barril.it/wp-content/uploads/2021/03/Barril-web-design-2021-slides-4.2.jpg",
@@ -531,7 +679,8 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://www.barril.it/",
     "kind": "place",
-    "label": "Foto: Barril"
+    "label": "Foto: Barril",
+    "fallback": "assets/complete-39.jpg"
   },
   "59": {
     "url": "https://www.cocktailreporter.com/wp-content/uploads/2021/08/15272203_1188608584554779_1550513591341253820_o.jpeg",
@@ -541,7 +690,8 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://www.cocktailreporter.com/bars/archivio-storico/",
     "kind": "place",
-    "label": "Foto: Archivio Storico"
+    "label": "Foto: Archivio Storico",
+    "fallback": "assets/complete-39.jpg"
   },
   "60": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Palazzo_Reale_di_Napoli_%28cropped%29.jpg/960px-Palazzo_Reale_di_Napoli_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -552,7 +702,8 @@
     "file": "File:Palazzo Reale di Napoli (cropped).jpg",
     "local": "assets/napoli-34.jpg",
     "kind": "place",
-    "label": "Foto: Palazzo Reale"
+    "label": "Foto: Palazzo Reale",
+    "fallback": "assets/complete-34.jpg"
   },
   "61": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Sant%27Elmo_e_San_Martino_Napoli3.jpg/960px-Sant%27Elmo_e_San_Martino_Napoli3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -563,7 +714,8 @@
     "file": "File:Sant'Elmo e San Martino Napoli3.jpg",
     "local": "assets/napoli-9.jpg",
     "kind": "place",
-    "label": "Foto: Certosa di San Martino"
+    "label": "Foto: Certosa di San Martino",
+    "fallback": "assets/complete-34.jpg"
   },
   "62": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Reggia_di_Capodimonte_1.JPG/960px-Reggia_di_Capodimonte_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -574,7 +726,8 @@
     "file": "File:Reggia di Capodimonte 1.JPG",
     "local": "assets/napoli-16.jpg",
     "kind": "place",
-    "label": "Foto: Museo e Real Bosco di Capodimonte"
+    "label": "Foto: Museo e Real Bosco di Capodimonte",
+    "fallback": "assets/complete-34.jpg"
   },
   "63": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Catacombe_di_San_Gennaro_023.jpg/960px-Catacombe_di_San_Gennaro_023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -585,7 +738,8 @@
     "file": "File:Catacombe di San Gennaro 023.jpg",
     "local": "assets/napoli-24.jpg",
     "kind": "place",
-    "label": "Foto: Catacombe di San Gennaro"
+    "label": "Foto: Catacombe di San Gennaro",
+    "fallback": "assets/complete-34.jpg"
   },
   "64": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Galleria_Umberto_I_ingresso_da_via_Santa_Brigida.jpg/960px-Galleria_Umberto_I_ingresso_da_via_Santa_Brigida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -596,7 +750,8 @@
     "file": "File:Galleria Umberto I ingresso da via Santa Brigida.jpg",
     "local": "assets/napoli-39.jpg",
     "kind": "place",
-    "label": "Foto: Galleria Umberto I"
+    "label": "Foto: Galleria Umberto I",
+    "fallback": "assets/complete-34.jpg"
   },
   "65": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Museo_Pignatelli_%28_veduta_dai_giardini%29.JPG/960px-Museo_Pignatelli_%28_veduta_dai_giardini%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -607,7 +762,8 @@
     "file": "File:Museo Pignatelli ( veduta dai giardini).JPG",
     "local": "assets/napoli-11.jpg",
     "kind": "place",
-    "label": "Foto: Villa Pignatelli"
+    "label": "Foto: Villa Pignatelli",
+    "fallback": "assets/complete-34.jpg"
   },
   "66": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Pedamentina_a_San_Martino%2C_Naples_20230622_02.jpg/960px-Pedamentina_a_San_Martino%2C_Naples_20230622_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -617,7 +773,8 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "kind": "place",
-    "label": "Foto: Pedamentina di San Martino"
+    "label": "Foto: Pedamentina di San Martino",
+    "fallback": "assets/napoli-28.jpg"
   },
   "67": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Villa_Floridiana%2C_Napoli_100_5956.jpg/960px-Villa_Floridiana%2C_Napoli_100_5956.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -628,13 +785,20 @@
     "file": "File:Villa Floridiana, Napoli 100 5956.jpg",
     "local": "assets/napoli-5.jpg",
     "kind": "place",
-    "label": "Foto: Villa Floridiana"
+    "label": "Foto: Villa Floridiana",
+    "fallback": "assets/napoli-28.jpg"
   },
   "68": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/ViadeiMilleNaples.jpg/960px-ViadeiMilleNaples.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:ViadeiMilleNaples.jpg",
+    "author": "IlSistemone",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "Via dei Mille (Napoli)",
+    "local": "assets/complete-68.jpg",
+    "kind": "place",
+    "label": "Foto: Via dei Mille",
+    "fallback": "assets/complete-33.jpg"
   },
   "69": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Napoli_-_Port%27Alba.jpg/960px-Napoli_-_Port%27Alba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -645,7 +809,8 @@
     "file": "File:Napoli - Port'Alba.jpg",
     "local": "assets/napoli-8.jpg",
     "kind": "place",
-    "label": "Foto: Port’Alba"
+    "label": "Foto: Port’Alba",
+    "fallback": "assets/complete-33.jpg"
   },
   "70": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Castel_dell%27_Ovo.jpg/960px-Castel_dell%27_Ovo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -656,7 +821,8 @@
     "file": "File:Castel dell' Ovo.jpg",
     "local": "assets/napoli-36.jpg",
     "kind": "place",
-    "label": "Foto: Castel dell'Ovo"
+    "label": "Foto: Castel dell'Ovo",
+    "fallback": "assets/complete-34.jpg"
   },
   "71": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Maschio_angioino1.JPG/960px-Maschio_angioino1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -667,7 +833,8 @@
     "file": "File:Maschio angioino1.JPG",
     "local": "assets/napoli-7.jpg",
     "kind": "place",
-    "label": "Foto: Maschio Angioino (Castel Nuovo)"
+    "label": "Foto: Maschio Angioino (Castel Nuovo)",
+    "fallback": "assets/complete-34.jpg"
   },
   "72": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -678,7 +845,8 @@
     "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
     "local": "assets/napoli-25.jpg",
     "kind": "place",
-    "label": "Foto: Piazza dei Martiri"
+    "label": "Foto: Piazza dei Martiri",
+    "fallback": "assets/complete-34.jpg"
   },
   "73": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Napoli%2C_Piazza_Municipio_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -689,7 +857,8 @@
     "file": "File:Napoli, Piazza Municipio 13.jpg",
     "local": "assets/napoli-23.jpg",
     "kind": "place",
-    "label": "Foto: Piazza Municipio"
+    "label": "Foto: Piazza Municipio",
+    "fallback": "assets/complete-34.jpg"
   },
   "74": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Piazza_Dante.jpg/960px-Piazza_Dante.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -700,13 +869,19 @@
     "file": "File:Piazza Dante.jpg",
     "local": "assets/napoli-1.jpg",
     "kind": "place",
-    "label": "Foto: Piazza Dante"
+    "label": "Foto: Piazza Dante",
+    "fallback": "assets/complete-34.jpg"
   },
   "75": {
-    "kind": "none",
-    "local": "",
-    "source": "",
-    "label": "Foto non ancora disponibile"
+    "url": "https://napoliforme-bo.comune.napoli.it/documents/570291/116087/GM_JGEN0011658759102189.jpg/a0f4f6dc-42c5-6e37-aefe-44b66631e3fb?imagePreview=1&t=1658759102330",
+    "local": "https://napoliforme-bo.comune.napoli.it/documents/570291/116087/GM_JGEN0011658759102189.jpg/a0f4f6dc-42c5-6e37-aefe-44b66631e3fb?imagePreview=1&t=1658759102330",
+    "source": "https://napoliforme.comune.napoli.it/pois/-/poi/San-Gennaro-2015",
+    "author": "NapoliForMe · Comune di Napoli",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://napoliforme.comune.napoli.it/pois/-/poi/San-Gennaro-2015",
+    "kind": "place",
+    "label": "Foto: Murales di San Gennaro (Jorit)",
+    "fallback": "assets/complete-34.jpg"
   },
   "76": {
     "url": "https://www.concettinaaitresanti.com/wp-content/uploads/2024/05/pizza-sono-pazzo-di-te-650x650.jpg",
@@ -716,7 +891,8 @@
     "license": "© Fonte · immagine incorporata dal sito",
     "licenseUrl": "https://www.concettinaaitresanti.com/",
     "kind": "place",
-    "label": "Foto: Concettina ai Tre Santi"
+    "label": "Foto: Concettina ai Tre Santi",
+    "fallback": "assets/complete-45.jpg"
   },
   "77": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Poppella_Esterno_negozio.jpg/960px-Poppella_Esterno_negozio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -726,7 +902,8 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "kind": "place",
-    "label": "Foto: Poppella – Sanità"
+    "label": "Foto: Poppella – Sanità",
+    "fallback": "assets/complete-45.jpg"
   },
   "78": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Santa_Maria_della_Sanit%C3%A0_2012.jpg/960px-Santa_Maria_della_Sanit%C3%A0_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -737,7 +914,8 @@
     "file": "File:Santa Maria della Sanità 2012.jpg",
     "local": "assets/napoli-12.jpg",
     "kind": "place",
-    "label": "Foto: Basilica di Santa Maria della Sanità"
+    "label": "Foto: Basilica di Santa Maria della Sanità",
+    "fallback": "assets/complete-34.jpg"
   },
   "79": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Palazzo_dello_Spagnuolo_%282%29.jpg/960px-Palazzo_dello_Spagnuolo_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -748,6 +926,7 @@
     "file": "File:Palazzo dello Spagnuolo (2).jpg",
     "local": "assets/napoli-10.jpg",
     "kind": "place",
-    "label": "Foto: Palazzo dello Spagnolo"
+    "label": "Foto: Palazzo dello Spagnolo",
+    "fallback": "assets/complete-34.jpg"
   }
 }

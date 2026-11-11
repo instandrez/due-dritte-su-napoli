@@ -10,7 +10,7 @@ Quattro giri dal Santa Lucia, ciascuno con un percorso consigliato già selezion
 
 ## Fotografie e impaginazione
 
-59 schede hanno fotografie specifiche del luogo, del locale o dei suoi piatti. Le altre 21 hanno una copertina blu senza foto generiche della zona. Le copertine dei giri restano fotografiche. Fonti, autori e licenze in foto.json e crediti-foto.html: 41 fotografie specifiche da Commons e 18 immagini incorporate dai siti delle attività. Crediti separati per le copertine degli itinerari.
+Tutte le 80 schede hanno una fotografia: 64 specifiche e 16 di repertorio, indicate esplicitamente sulle copertine. Le foto di repertorio illustrano il tipo di esperienza e non il locale preciso. Fonti, autori e licenze in foto.json e crediti-foto.html. Le immagini Commons sono locali; quelle dei siti sono incorporate dalla fonte. Se una fonte esterna non risponde, una foto locale della categoria mantiene la copertina visibile. Le copertine degli itinerari restano fotografiche.
 
 Filtri tutti visibili, etichette su una riga, pulsante Torna su dopo lo scorrimento. Le immagini sono ritagliate via CSS e caricate in modo differito.
 
