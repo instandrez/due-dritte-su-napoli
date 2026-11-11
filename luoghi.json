@@ -982,5 +982,65 @@
     "lat": 40.8491564,
     "lon": 14.250303,
     "coordinateSource": "OpenStreetMap / Nominatim"
+  },
+  {
+    "id": 75,
+    "name": "Murales di San Gennaro (Jorit)",
+    "category": "vedere",
+    "zone": "Centro storico",
+    "address": "Piazza Crocelle ai Mannesi, Napoli",
+    "description": "Il San Gennaro dipinto da Jorit sulla facciata accanto a San Giorgio Maggiore, all’ingresso di Forcella.",
+    "source": "https://napoliforme.comune.napoli.it/itinerari/-/itinerario/Thematic/Art-and-Culture/Murals-by-Jorit-Agoch",
+    "lat": 40.8501452,
+    "lon": 14.2604566,
+    "coordinateSource": "OpenStreetMap / Nominatim"
+  },
+  {
+    "id": 76,
+    "name": "Concettina ai Tre Santi",
+    "category": "mangiare",
+    "zone": "Sanità",
+    "address": "Via Arena della Sanità 7 bis, Napoli",
+    "description": "Pizzeria della famiglia Oliva nel Rione Sanità, tra pizze classiche e proposte contemporanee.",
+    "source": "https://www.concettinaaitresanti.com/contacts/",
+    "lat": 40.8574315,
+    "lon": 14.2523228,
+    "coordinateSource": "OpenStreetMap / Nominatim"
+  },
+  {
+    "id": 77,
+    "name": "Poppella – Sanità",
+    "category": "mangiare",
+    "zone": "Sanità",
+    "address": "Via Arena della Sanità 29, Napoli",
+    "description": "Pasticceria del Rione Sanità conosciuta per i fiocchi di neve e i dolci napoletani.",
+    "source": "https://www.gamberorosso.it/luoghi/locali/pasticceria/poppella-2/",
+    "lat": 40.8574348,
+    "lon": 14.2531307,
+    "coordinateSource": "OpenStreetMap / Nominatim"
+  },
+  {
+    "id": 78,
+    "name": "Basilica di Santa Maria della Sanità",
+    "category": "vedere",
+    "zone": "Sanità",
+    "address": "Piazza Sanità, Napoli",
+    "description": "Basilica barocca nel cuore del rione, con accesso alle Catacombe di San Gaudioso. Per le catacombe verifica prenotazione e biglietti.",
+    "source": "https://catacombedinapoli.it/it/luoghi/basilica-di-santa-maria-sanita-napoli/",
+    "lat": 40.8597275,
+    "lon": 14.2490297,
+    "coordinateSource": "OpenStreetMap / Nominatim"
+  },
+  {
+    "id": 79,
+    "name": "Palazzo dello Spagnolo",
+    "category": "vedere",
+    "zone": "Sanità",
+    "address": "Via Vergini 19, Napoli",
+    "description": "Palazzo del quartiere Vergini noto per la scenografica scala a doppia rampa. È un edificio abitato: rispetta residenti e accessi consentiti.",
+    "source": "https://napoliforme.comune.napoli.it/",
+    "lat": 40.8567227,
+    "lon": 14.2541516,
+    "coordinateSource": "OpenStreetMap / Nominatim"
   }
 ]

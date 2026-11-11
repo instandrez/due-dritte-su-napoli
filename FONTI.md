@@ -27,3 +27,11 @@ I nuovi posti sono proposte da rivedere con il proprietario, senza nuovi flag im
 
 Per J Contemporary: [Guida MICHELIN](https://guide.michelin.com/gb/en/campania/napoli/restaurant/j-contemporary-japanese-restaurant).
 Per Ruri Kaiseki: [Gambero Rosso](https://www.gamberorosso.it/locali/ruri-kaiseki/).
+
+## Sanità e murales di San Gennaro
+
+- **Murales di San Gennaro (Jorit)** · Piazza Crocelle ai Mannesi · [Fonte](https://napoliforme.comune.napoli.it/itinerari/-/itinerario/Thematic/Art-and-Culture/Murals-by-Jorit-Agoch)
+- **Concettina ai Tre Santi** · Via Arena della Sanità 7 bis · [Fonte](https://www.concettinaaitresanti.com/contacts/)
+- **Poppella – Sanità** · Via Arena della Sanità 29 · [Fonte](https://www.gamberorosso.it/luoghi/locali/pasticceria/poppella-2/)
+- **Basilica di Santa Maria della Sanità** · Piazza Sanità · [Fonte](https://catacombedinapoli.it/it/luoghi/basilica-di-santa-maria-sanita-napoli/)
+- **Palazzo dello Spagnolo** · Via Vergini 19 · [Fonte](https://napoliforme.comune.napoli.it/)
