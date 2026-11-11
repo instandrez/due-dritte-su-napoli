@@ -23,3 +23,9 @@ Verifica luoghi principali: 75 posti totali. Aggiunti Castel dell’Ovo, Maschio
 Sezione “Giri dal Santa Lucia”: quattro percorsi editoriali, con 14 configurazioni tra varianti e deviazioni. Tappe ordinate, schede del catalogo riutilizzate, soste per mangiare e bere e indicazioni Google Maps per ogni tratto. La linea in mappa collega le tappe e non è un percorso stradale calcolato; il segmento della funicolare è distinto e non presenta indicazioni a piedi. Non sono stimati tempi di visita o verificati gli orari dei locali.
 
 I percorsi seguono le indicazioni del proprietario. Fonti di supporto: ANM per la funicolare Centrale Augusteo–Piazza Fuga, Comune di Napoli per i collegamenti tra i decumani. Posillipo e Capodimonte sono presentati come uscite dedicate.
+
+## Fotografie e impaginazione
+
+Schede con copertina fotografica e titolo sovrapposto. I filtri hanno altezza uniforme e sono disposti in due colonne sul telefono; le etichette restano su una riga. Tutti i giri hanno foto di copertina e descrizione estesa.
+
+39 immagini da Wikimedia Commons, con autore, licenza e collegamento all’originale in foto.json e crediti-foto.html. Per 35 luoghi è disponibile una foto specifica; per gli altri è mostrata una foto della zona, indicata esplicitamente. Le immagini sono ritagliate via CSS per l’impaginazione. Le copertine dei luoghi sono caricate in modo differito.
