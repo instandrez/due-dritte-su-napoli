@@ -19,3 +19,5 @@ Filtri tutti visibili, etichette su una riga, pulsante Torna su dopo lo scorrime
 GitHub Pages dal branch main, cartella root. index.html contiene il codice applicativo; assets contiene le immagini locali. La mappa e le immagini esterne richiedono Internet. Dati del catalogo in luoghi.json; fonti in FONTI.md.
 
 Vicino a me: filtri indipendenti per categoria, applicati ai risultati GPS o al punto indicativo della zona. Cambiare categoria aggiorna le fasce di cammino senza chiedere nuovamente la posizione.
+
+Esplora senza filtro zona. Vicino a me ordinato per distanza, con categoria e Solo imperdibili. Selezione modificabile in imperdibili.html, salvata nel browser ed esportabile per pubblicarla come impostazione predefinita. Gli imperdibili delle zone dei quattro giri sono inclusi nelle tappe o nelle soste.
