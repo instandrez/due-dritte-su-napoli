@@ -17,3 +17,9 @@ Catalogo aggiornato: 48 posti, con 22 aggiunte indicate dal proprietario. Sorbil
 Seconda espansione: 70 posti totali. 22 nuove proposte (8 per mangiare, 4 per cocktail/aperitivi, 6 da vedere, 2 passeggiate/panorami e 2 shopping). Nuove proposte senza flag imperdibile. Etichetta Fascia alta per Terrazza Calabritto, Coco Loco e Ruri Kaiseki; le fasce non sono prezzi garantiti. Fonti in FONTI.md e nei dati.
 
 Verifica luoghi principali: 75 posti totali. Aggiunti Castel dell’Ovo, Maschio Angioino, Piazza dei Martiri, Piazza Municipio e Piazza Dante. Plebiscito, Castel Sant’Elmo, Certosa e Belvedere San Martino, Virgiliano e Museo e Real Bosco di Capodimonte erano già presenti.
+
+## Itinerari suggeriti
+
+Sezione “Giri dal Santa Lucia”: quattro percorsi editoriali, con 14 configurazioni tra varianti e deviazioni. Tappe ordinate, schede del catalogo riutilizzate, soste per mangiare e bere e indicazioni Google Maps per ogni tratto. La linea in mappa collega le tappe e non è un percorso stradale calcolato; il segmento della funicolare è distinto e non presenta indicazioni a piedi. Non sono stimati tempi di visita o verificati gli orari dei locali.
+
+I percorsi seguono le indicazioni del proprietario. Fonti di supporto: ANM per la funicolare Centrale Augusteo–Piazza Fuga, Comune di Napoli per i collegamenti tra i decumani. Posillipo e Capodimonte sono presentati come uscite dedicate.
