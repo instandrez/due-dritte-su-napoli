@@ -1,31 +1,19 @@
 # Due dritte su Napoli
 
-Guida statica con 26 luoghi provvisori, cinque categorie, ricerca, filtri per zona e imperdibili, mappa con pin colorati e collegamenti a Google Maps.
+Guida personale statica con 80 luoghi, ricerca, filtri per categoria, zona e imperdibili, prossimità GPS e mappa Leaflet/OpenStreetMap. Collegamenti Google Maps per informazioni e indicazioni a piedi. Pulsante fisso per tornare al Grand Hotel Santa Lucia, Via Partenope 46.
 
-Vicino a me usa il GPS con consenso oppure un punto indicativo della zona scelta. Le fasce entro 5 minuti, da 5 a 10, da 10 a 30 e oltre 30 sono stime: distanza in linea d’aria moltiplicata per 1,4 e velocità di 65 metri/minuto. Strade e dislivelli non vengono calcolati.
+Le distanze a piedi sono indicative: distanza in linea d’aria moltiplicata per 1,4, velocità 65 metri/minuto. GPS disponibile su HTTPS o localhost. Verificare aperture e prenotazioni.
 
-Non sono previsti itinerari o note personali. Verificare aperture e prenotazioni prima della visita.
+## Itinerari
 
-Per pubblicare su GitHub Pages carica index.html nella root del repository e attiva Settings → Pages → Deploy from a branch → main / root. Il file contiene già tutto il codice applicativo; upgrade.js è una copia leggibile delle funzioni di prossimità. Leaflet e le mappe OpenStreetMap richiedono Internet. GPS disponibile su HTTPS o localhost.
-
-Per personalizzare i luoghi modifica l’array places in index.html. luoghi.json è una copia dei dati iniziali.
-
-Pulsante fisso “Riportami in hotel”: indicazioni Google Maps a piedi verso Grand Hotel Santa Lucia, Via Partenope 46, Napoli. Maps gestisce il punto di partenza e i permessi di posizione.
-
-Catalogo aggiornato: 48 posti, con 22 aggiunte indicate dal proprietario. Sorbillo, Di Matteo, Gambrinus, Via Chiaia e Via Scarlatti erano già presenti e non sono duplicati. Fonti e indirizzi dei nuovi locali sono riportati in luoghi.json. Coordinate da OpenStreetMap/Nominatim; alcuni punti rappresentano una posizione indicativa sulla strada o sul belvedere. Google Maps riceve nome e indirizzo per trovare la destinazione.
-
-Seconda espansione: 70 posti totali. 22 nuove proposte (8 per mangiare, 4 per cocktail/aperitivi, 6 da vedere, 2 passeggiate/panorami e 2 shopping). Nuove proposte senza flag imperdibile. Etichetta Fascia alta per Terrazza Calabritto, Coco Loco e Ruri Kaiseki; le fasce non sono prezzi garantiti. Fonti in FONTI.md e nei dati.
-
-Verifica luoghi principali: 75 posti totali. Aggiunti Castel dell’Ovo, Maschio Angioino, Piazza dei Martiri, Piazza Municipio e Piazza Dante. Plebiscito, Castel Sant’Elmo, Certosa e Belvedere San Martino, Virgiliano e Museo e Real Bosco di Capodimonte erano già presenti.
-
-## Itinerari suggeriti
-
-Sezione “Giri dal Santa Lucia”: quattro percorsi editoriali, con 14 configurazioni tra varianti e deviazioni. Tappe ordinate, schede del catalogo riutilizzate, soste per mangiare e bere e indicazioni Google Maps per ogni tratto. La linea in mappa collega le tappe e non è un percorso stradale calcolato; il segmento della funicolare è distinto e non presenta indicazioni a piedi. Non sono stimati tempi di visita o verificati gli orari dei locali.
-
-I percorsi seguono le indicazioni del proprietario. Fonti di supporto: ANM per la funicolare Centrale Augusteo–Piazza Fuga, Comune di Napoli per i collegamenti tra i decumani. Posillipo e Capodimonte sono presentati come uscite dedicate.
+Quattro giri dal Santa Lucia, ciascuno con un percorso consigliato già selezionato. Descrizione, mappa, collegamenti rapidi a cosa vedere e dove fermarsi. Le indicazioni tappa per tappa sono richiudibili; per il Vomero si può aggiungere la salita al castello. La traccia collega le tappe e non segue le strade: usare Google Maps per le indicazioni effettive. La funicolare è distinta dai tratti a piedi.
 
 ## Fotografie e impaginazione
 
-Schede con copertina fotografica e titolo sovrapposto. I filtri hanno altezza uniforme e sono disposti in due colonne sul telefono; le etichette restano su una riga. Tutti i giri hanno foto di copertina e descrizione estesa.
+59 schede hanno fotografie specifiche del luogo, del locale o dei suoi piatti. Le altre 21 hanno una copertina blu senza foto generiche della zona. Le copertine dei giri restano fotografiche. Fonti, autori e licenze in foto.json e crediti-foto.html: 41 fotografie specifiche da Commons e 18 immagini incorporate dai siti delle attività. Crediti separati per le copertine degli itinerari.
 
-39 immagini da Wikimedia Commons, con autore, licenza e collegamento all’originale in foto.json e crediti-foto.html. Per 35 luoghi è disponibile una foto specifica; per gli altri è mostrata una foto della zona, indicata esplicitamente. Le immagini sono ritagliate via CSS per l’impaginazione. Le copertine dei luoghi sono caricate in modo differito.
+Filtri tutti visibili, etichette su una riga, pulsante Torna su dopo lo scorrimento. Le immagini sono ritagliate via CSS e caricate in modo differito.
+
+## Pubblicazione
+
+GitHub Pages dal branch main, cartella root. index.html contiene il codice applicativo; assets contiene le immagini locali. La mappa e le immagini esterne richiedono Internet. Dati del catalogo in luoghi.json; fonti in FONTI.md.

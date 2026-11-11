@@ -88,59 +88,46 @@
     "label": "Foto: Napoli Sotterranea"
   },
   "8": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Spaccanapoli_da_s_Elmo_1050131.JPG/960px-Spaccanapoli_da_s_Elmo_1050131.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Spaccanapoli_da_s_Elmo_1050131.JPG",
-    "author": "Lalupa",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Spaccanapoli da s Elmo 1050131.JPG",
-    "local": "assets/napoli-2.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro storico"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pizzeria_Da_Michele%2C_Napoli.jpg/960px-Pizzeria_Da_Michele%2C_Napoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "local": "assets/specific-8.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pizzeria_Da_Michele,_Napoli.jpg",
+    "author": "Husky",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "kind": "place",
+    "label": "Foto: Da Michele"
   },
   "9": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Spaccanapoli_da_s_Elmo_1050131.JPG/960px-Spaccanapoli_da_s_Elmo_1050131.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Spaccanapoli_da_s_Elmo_1050131.JPG",
-    "author": "Lalupa",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Via_dei_Tribunali_-_Pizzeria_Gino_Sorbillo_-_panoramio.jpg/960px-Via_dei_Tribunali_-_Pizzeria_Gino_Sorbillo_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "local": "assets/specific-9.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Via_dei_Tribunali_-_Pizzeria_Gino_Sorbillo_-_panoramio.jpg",
+    "author": "Mister No",
     "license": "CC BY 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Spaccanapoli da s Elmo 1050131.JPG",
-    "local": "assets/napoli-2.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro storico"
+    "kind": "place",
+    "label": "Foto: Sorbillo"
   },
   "10": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Spaccanapoli_da_s_Elmo_1050131.JPG/960px-Spaccanapoli_da_s_Elmo_1050131.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Spaccanapoli_da_s_Elmo_1050131.JPG",
-    "author": "Lalupa",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Spaccanapoli da s Elmo 1050131.JPG",
-    "local": "assets/napoli-2.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro storico"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "11": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Spaccanapoli_da_s_Elmo_1050131.JPG/960px-Spaccanapoli_da_s_Elmo_1050131.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Spaccanapoli_da_s_Elmo_1050131.JPG",
-    "author": "Lalupa",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Spaccanapoli da s Elmo 1050131.JPG",
-    "local": "assets/napoli-2.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro storico"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "12": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Spaccanapoli_da_s_Elmo_1050131.JPG/960px-Spaccanapoli_da_s_Elmo_1050131.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Spaccanapoli_da_s_Elmo_1050131.JPG",
-    "author": "Lalupa",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Spaccanapoli da s Elmo 1050131.JPG",
-    "local": "assets/napoli-2.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro storico"
+    "url": "https://scaturchio.it/wp-content/themes/scaturchio/assets/homepage/scaturchio.JPG",
+    "local": "https://scaturchio.it/wp-content/themes/scaturchio/assets/homepage/scaturchio.JPG",
+    "source": "https://scaturchio.it/",
+    "author": "Scaturchio",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://scaturchio.it/",
+    "kind": "place",
+    "label": "Foto: Scaturchio"
   },
   "13": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Gambrinus01.jpg/960px-Gambrinus01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -154,15 +141,10 @@
     "label": "Foto: Gambrinus"
   },
   "14": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Piazza_Garibaldi_%28Napoli%29_in_2020.08.jpg/960px-Piazza_Garibaldi_%28Napoli%29_in_2020.08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_Garibaldi_(Napoli)_in_2020.08.jpg",
-    "author": "CAPTAIN RAJU",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "file": "File:Piazza Garibaldi (Napoli) in 2020.08.jpg",
-    "local": "assets/napoli-31.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Stazione"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "15": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Sant%27Elmo_e_San_Martino_Napoli3.jpg/960px-Sant%27Elmo_e_San_Martino_Napoli3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -220,26 +202,20 @@
     "label": "Foto: Parco Virgiliano"
   },
   "20": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Spaccanapoli_da_s_Elmo_1050131.JPG/960px-Spaccanapoli_da_s_Elmo_1050131.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Spaccanapoli_da_s_Elmo_1050131.JPG",
-    "author": "Lalupa",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Spaccanapoli da s Elmo 1050131.JPG",
-    "local": "assets/napoli-2.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro storico"
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Napoli_-_Panoramica_su_Piazza_Bellini.jpg/960px-Napoli_-_Panoramica_su_Piazza_Bellini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "local": "assets/specific-20.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Napoli_-_Panoramica_su_Piazza_Bellini.jpg",
+    "author": "Armando Mancini",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "kind": "place",
+    "label": "Foto: Piazza Bellini"
   },
   "21": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "22": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Napoli_-_piazza_San_Domenico_Maggiore_e_guglia.jpg/960px-Napoli_-_piazza_San_Domenico_Maggiore_e_guglia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -286,202 +262,144 @@
     "label": "Foto: Via Scarlatti"
   },
   "26": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Piazza_Garibaldi_%28Napoli%29_in_2020.08.jpg/960px-Piazza_Garibaldi_%28Napoli%29_in_2020.08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_Garibaldi_(Napoli)_in_2020.08.jpg",
-    "author": "CAPTAIN RAJU",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "file": "File:Piazza Garibaldi (Napoli) in 2020.08.jpg",
-    "local": "assets/napoli-31.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Stazione"
+    "url": "https://www.mimiallaferrovia.it/wp-content/uploads/2019/10/intro.jpg",
+    "local": "https://www.mimiallaferrovia.it/wp-content/uploads/2019/10/intro.jpg",
+    "source": "https://www.mimiallaferrovia.it/",
+    "author": "Mimì alla Ferrovia",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.mimiallaferrovia.it/",
+    "kind": "place",
+    "label": "Foto: Mimì alla Ferrovia"
   },
   "27": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Spaccanapoli_da_s_Elmo_1050131.JPG/960px-Spaccanapoli_da_s_Elmo_1050131.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Spaccanapoli_da_s_Elmo_1050131.JPG",
-    "author": "Lalupa",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Spaccanapoli da s Elmo 1050131.JPG",
-    "local": "assets/napoli-2.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro storico"
+    "url": "https://www.upnea.it/wp-content/uploads/2024/12/home-hero-1024x533.webp",
+    "local": "https://www.upnea.it/wp-content/uploads/2024/12/home-hero-1024x533.webp",
+    "source": "https://www.upnea.it/",
+    "author": "Salumeria Upnea",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.upnea.it/",
+    "kind": "place",
+    "label": "Foto: Salumeria Upnea"
   },
   "28": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Spaccanapoli_da_s_Elmo_1050131.JPG/960px-Spaccanapoli_da_s_Elmo_1050131.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Spaccanapoli_da_s_Elmo_1050131.JPG",
-    "author": "Lalupa",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Spaccanapoli da s Elmo 1050131.JPG",
-    "local": "assets/napoli-2.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro storico"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "29": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Spaccanapoli_da_s_Elmo_1050131.JPG/960px-Spaccanapoli_da_s_Elmo_1050131.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Spaccanapoli_da_s_Elmo_1050131.JPG",
-    "author": "Lalupa",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Spaccanapoli da s Elmo 1050131.JPG",
-    "local": "assets/napoli-2.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro storico"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "30": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Spaccanapoli_da_s_Elmo_1050131.JPG/960px-Spaccanapoli_da_s_Elmo_1050131.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Spaccanapoli_da_s_Elmo_1050131.JPG",
-    "author": "Lalupa",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Spaccanapoli da s Elmo 1050131.JPG",
-    "local": "assets/napoli-2.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro storico"
-  },
-  "31": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/P.Plebiscito_Napoli.jpg/960px-P.Plebiscito_Napoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:P.Plebiscito_Napoli.jpg",
-    "author": "Baku",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "file": "File:P.Plebiscito Napoli.jpg",
-    "local": "assets/napoli-35.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro"
-  },
-  "32": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/P.Plebiscito_Napoli.jpg/960px-P.Plebiscito_Napoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:P.Plebiscito_Napoli.jpg",
-    "author": "Baku",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "file": "File:P.Plebiscito Napoli.jpg",
-    "local": "assets/napoli-35.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro"
-  },
-  "33": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
-  },
-  "34": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/N%C3%A1poles_vista_do_alto_-_2_%283838983981%29.jpg/960px-N%C3%A1poles_vista_do_alto_-_2_%283838983981%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:N%C3%A1poles_vista_do_alto_-_2_(3838983981).jpg",
-    "author": "Leandro Neumann Ciuffo",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "file": "File:Nápoles vista do alto - 2 (3838983981).jpg",
-    "local": "assets/napoli-13.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Quartieri Spagnoli"
-  },
-  "35": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/N%C3%A1poles_vista_do_alto_-_2_%283838983981%29.jpg/960px-N%C3%A1poles_vista_do_alto_-_2_%283838983981%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:N%C3%A1poles_vista_do_alto_-_2_(3838983981).jpg",
-    "author": "Leandro Neumann Ciuffo",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "file": "File:Nápoles vista do alto - 2 (3838983981).jpg",
-    "local": "assets/napoli-13.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Quartieri Spagnoli"
-  },
-  "36": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/N%C3%A1poles_vista_do_alto_-_2_%283838983981%29.jpg/960px-N%C3%A1poles_vista_do_alto_-_2_%283838983981%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:N%C3%A1poles_vista_do_alto_-_2_(3838983981).jpg",
-    "author": "Leandro Neumann Ciuffo",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "file": "File:Nápoles vista do alto - 2 (3838983981).jpg",
-    "local": "assets/napoli-13.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Quartieri Spagnoli"
-  },
-  "37": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Guglia_Materdei.jpg/960px-Guglia_Materdei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Guglia_Materdei.jpg",
-    "author": "Baku",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Naples_piazza_gesu_nuovo.JPG/960px-Naples_piazza_gesu_nuovo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "local": "assets/specific-30.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Naples_piazza_gesu_nuovo.JPG",
+    "author": "Velvet",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "file": "File:Guglia Materdei.jpg",
-    "local": "assets/napoli-4.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Materdei"
+    "kind": "place",
+    "label": "Foto: Piazza del Gesù Nuovo"
+  },
+  "31": {
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
+  },
+  "32": {
+    "url": "https://www.pasticceriapintauro1785.it/wp-content/uploads/2026/03/SOCIAL-0018_pintauro_003.jpg",
+    "local": "https://www.pasticceriapintauro1785.it/wp-content/uploads/2026/03/SOCIAL-0018_pintauro_003.jpg",
+    "source": "https://www.pasticceriapintauro1785.it/",
+    "author": "Pintauro",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.pasticceriapintauro1785.it/",
+    "kind": "place",
+    "label": "Foto: Pintauro"
+  },
+  "33": {
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
+  },
+  "34": {
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
+  },
+  "35": {
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
+  },
+  "36": {
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
+  },
+  "37": {
+    "url": "https://pizzeriestarita.it/wp-content/uploads/2023/02/7_SLIDER_IMG-1024x604.png",
+    "local": "https://pizzeriestarita.it/wp-content/uploads/2023/02/7_SLIDER_IMG-1024x604.png",
+    "source": "https://pizzeriestarita.it/",
+    "author": "Starita a Materdei",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://pizzeriestarita.it/",
+    "kind": "place",
+    "label": "Foto: Starita a Materdei"
   },
   "38": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
+    "url": "https://www.pizzeriasalvo.it/wp-content/uploads/2023/02/Margherita-pop-1024x1024.webp",
+    "local": "https://www.pizzeriasalvo.it/wp-content/uploads/2023/02/Margherita-pop-1024x1024.webp",
+    "source": "https://www.pizzeriasalvo.it/",
+    "author": "Pizzeria Salvo – Riviera di Chiaia",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.pizzeriasalvo.it/",
+    "kind": "place",
+    "label": "Foto: Pizzeria Salvo – Riviera di Chiaia"
   },
   "39": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "40": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
+    "url": "https://mtmagazine.it/wp-content/uploads/2024/11/Cocktail-bar_chiaia-1.jpg",
+    "local": "https://mtmagazine.it/wp-content/uploads/2024/11/Cocktail-bar_chiaia-1.jpg",
+    "source": "https://mtmagazine.it/inserzioni/flanagans/",
+    "author": "Flanagan's",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://mtmagazine.it/inserzioni/flanagans/",
+    "kind": "place",
+    "label": "Foto: Flanagan's"
   },
   "41": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "42": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "43": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Veduta_di_Napoli_da_Pizzofalcone_003.JPG/960px-Veduta_di_Napoli_da_Pizzofalcone_003.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Veduta_di_Napoli_da_Pizzofalcone_003.JPG",
-    "author": "Mentnafunangann",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "file": "File:Veduta di Napoli da Pizzofalcone 003.JPG",
-    "local": "assets/napoli-15.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Posillipo"
+    "url": "https://www.trattoriadacicciotto.it/wp-content/uploads/2021/10/gallery-ristorante-cicciotto-a-marechiaro-foto-2-1.jpg",
+    "local": "https://www.trattoriadacicciotto.it/wp-content/uploads/2021/10/gallery-ristorante-cicciotto-a-marechiaro-foto-2-1.jpg",
+    "source": "https://www.trattoriadacicciotto.it/",
+    "author": "Cicciotto a Marechiaro",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.trattoriadacicciotto.it/",
+    "kind": "place",
+    "label": "Foto: Cicciotto a Marechiaro"
   },
   "44": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Monte_Echia%2C_Napoli%2C_Italia_-_2024.jpg/960px-Monte_Echia%2C_Napoli%2C_Italia_-_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -495,26 +413,20 @@
     "label": "Foto: Ascensore di Monte Echia"
   },
   "45": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/4433_SantElmo.jpg/960px-4433_SantElmo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:4433_SantElmo.jpg",
-    "author": "Hotepibre",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "file": "File:4433 SantElmo.jpg",
-    "local": "assets/napoli-28.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Vomero"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "46": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/4433_SantElmo.jpg/960px-4433_SantElmo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:4433_SantElmo.jpg",
-    "author": "Hotepibre",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "file": "File:4433 SantElmo.jpg",
-    "local": "assets/napoli-28.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Vomero"
+    "url": "https://www.gorizia1916.com/wp-content/uploads/2026/03/Foto-Istituzionale-Gorizia-749x1024.jpg",
+    "local": "https://www.gorizia1916.com/wp-content/uploads/2026/03/Foto-Istituzionale-Gorizia-749x1024.jpg",
+    "source": "https://www.gorizia1916.com/about/",
+    "author": "Gorizia 1916",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.gorizia1916.com/about/",
+    "kind": "place",
+    "label": "Foto: Gorizia 1916"
   },
   "47": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/PVanvitelli.jpg/960px-PVanvitelli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -528,136 +440,108 @@
     "label": "Foto: Piazza Vanvitelli"
   },
   "48": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
+    "url": "https://napoli.terrazzacalabritto.it/wp-content/uploads/sites/3/2022/09/terr-75-scaled.jpg",
+    "local": "https://napoli.terrazzacalabritto.it/wp-content/uploads/sites/3/2022/09/terr-75-scaled.jpg",
+    "source": "https://napoli.terrazzacalabritto.it/",
+    "author": "Terrazza Calabritto",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://napoli.terrazzacalabritto.it/",
+    "kind": "place",
+    "label": "Foto: Terrazza Calabritto"
   },
   "49": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "50": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/P.Plebiscito_Napoli.jpg/960px-P.Plebiscito_Napoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:P.Plebiscito_Napoli.jpg",
-    "author": "Baku",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "file": "File:P.Plebiscito Napoli.jpg",
-    "local": "assets/napoli-35.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro"
+    "url": "https://j-japaneserestaurant.com/content/uploads/2025/01/j-napoli.jpeg",
+    "local": "https://j-japaneserestaurant.com/content/uploads/2025/01/j-napoli.jpeg",
+    "source": "https://j-japaneserestaurant.com/ristoranti/j-japanese-restaurant-napoli/",
+    "author": "J Contemporary Japanese Restaurant",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://j-japaneserestaurant.com/ristoranti/j-japanese-restaurant-napoli/",
+    "kind": "place",
+    "label": "Foto: J Contemporary Japanese Restaurant"
   },
   "51": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
+    "url": "https://www.ruriexperience.com/wp-content/uploads/2025/07/slider-pg-kaiseki-def-2.jpg",
+    "local": "https://www.ruriexperience.com/wp-content/uploads/2025/07/slider-pg-kaiseki-def-2.jpg",
+    "source": "https://www.ruriexperience.com/ruri-kaiseki/",
+    "author": "Ruri Kaiseki",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.ruriexperience.com/ruri-kaiseki/",
+    "kind": "place",
+    "label": "Foto: Ruri Kaiseki"
   },
   "52": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
+    "url": "https://www.umberto.it/wp-content/uploads/2024/08/Margherita-con-Bufala-.jpg",
+    "local": "https://www.umberto.it/wp-content/uploads/2024/08/Margherita-con-Bufala-.jpg",
+    "source": "https://www.umberto.it/it/",
+    "author": "Umberto",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.umberto.it/it/",
+    "kind": "place",
+    "label": "Foto: Umberto"
   },
   "53": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/N%C3%A1poles_vista_do_alto_-_2_%283838983981%29.jpg/960px-N%C3%A1poles_vista_do_alto_-_2_%283838983981%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:N%C3%A1poles_vista_do_alto_-_2_(3838983981).jpg",
-    "author": "Leandro Neumann Ciuffo",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "file": "File:Nápoles vista do alto - 2 (3838983981).jpg",
-    "local": "assets/napoli-13.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Quartieri Spagnoli"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "54": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Spaccanapoli_da_s_Elmo_1050131.JPG/960px-Spaccanapoli_da_s_Elmo_1050131.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Spaccanapoli_da_s_Elmo_1050131.JPG",
-    "author": "Lalupa",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Spaccanapoli da s Elmo 1050131.JPG",
-    "local": "assets/napoli-2.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro storico"
+    "url": "https://www.lalocandagesuvecchionapoli.it/wp-content/uploads/elementor/thumbs/L1000063-min-scaled-r3ohipqmxsm5tpbk9ixvocz0dhj55tmcxfa86in16g.jpg",
+    "local": "https://www.lalocandagesuvecchionapoli.it/wp-content/uploads/elementor/thumbs/L1000063-min-scaled-r3ohipqmxsm5tpbk9ixvocz0dhj55tmcxfa86in16g.jpg",
+    "source": "https://www.lalocandagesuvecchionapoli.it/",
+    "author": "La Locanda Gesù Vecchio",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.lalocandagesuvecchionapoli.it/",
+    "kind": "place",
+    "label": "Foto: La Locanda Gesù Vecchio"
   },
   "55": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/P.Plebiscito_Napoli.jpg/960px-P.Plebiscito_Napoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:P.Plebiscito_Napoli.jpg",
-    "author": "Baku",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "file": "File:P.Plebiscito Napoli.jpg",
-    "local": "assets/napoli-35.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro"
+    "url": "https://www.pizzeriadattilio.it/wp-content/uploads/2026/05/Attilio_banner-menu2.jpg.jpeg",
+    "local": "https://www.pizzeriadattilio.it/wp-content/uploads/2026/05/Attilio_banner-menu2.jpg.jpeg",
+    "source": "https://www.pizzeriadattilio.it/",
+    "author": "Pizzeria Da Attilio",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.pizzeriadattilio.it/",
+    "kind": "place",
+    "label": "Foto: Pizzeria Da Attilio"
   },
   "56": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "57": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "58": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
+    "url": "https://www.barril.it/wp-content/uploads/2021/03/Barril-web-design-2021-slides-4.2.jpg",
+    "local": "https://www.barril.it/wp-content/uploads/2021/03/Barril-web-design-2021-slides-4.2.jpg",
+    "source": "https://www.barril.it/",
+    "author": "Barril",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.barril.it/",
+    "kind": "place",
+    "label": "Foto: Barril"
   },
   "59": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/4433_SantElmo.jpg/960px-4433_SantElmo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:4433_SantElmo.jpg",
-    "author": "Hotepibre",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "file": "File:4433 SantElmo.jpg",
-    "local": "assets/napoli-28.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Vomero"
+    "url": "https://www.cocktailreporter.com/wp-content/uploads/2021/08/15272203_1188608584554779_1550513591341253820_o.jpeg",
+    "local": "https://www.cocktailreporter.com/wp-content/uploads/2021/08/15272203_1188608584554779_1550513591341253820_o.jpeg",
+    "source": "https://www.cocktailreporter.com/bars/archivio-storico/",
+    "author": "Archivio Storico",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.cocktailreporter.com/bars/archivio-storico/",
+    "kind": "place",
+    "label": "Foto: Archivio Storico"
   },
   "60": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Palazzo_Reale_di_Napoli_%28cropped%29.jpg/960px-Palazzo_Reale_di_Napoli_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -726,15 +610,14 @@
     "label": "Foto: Villa Pignatelli"
   },
   "66": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/4433_SantElmo.jpg/960px-4433_SantElmo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:4433_SantElmo.jpg",
-    "author": "Hotepibre",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Pedamentina_a_San_Martino%2C_Naples_20230622_02.jpg/960px-Pedamentina_a_San_Martino%2C_Naples_20230622_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "local": "assets/specific-66.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pedamentina_a_San_Martino,_Naples_20230622_02.jpg",
+    "author": "Argo Navis",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "file": "File:4433 SantElmo.jpg",
-    "local": "assets/napoli-28.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Vomero"
+    "kind": "place",
+    "label": "Foto: Pedamentina di San Martino"
   },
   "67": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Villa_Floridiana%2C_Napoli_100_5956.jpg/960px-Villa_Floridiana%2C_Napoli_100_5956.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -748,15 +631,10 @@
     "label": "Foto: Villa Floridiana"
   },
   "68": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg/960px-Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Piazza_dei_Martiri_-_Unione_Industriali_Napoli_-_panoramio.jpg",
-    "author": "Mister No",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Piazza dei Martiri - Unione Industriali Napoli - panoramio.jpg",
-    "local": "assets/napoli-25.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Chiaia"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "69": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Napoli_-_Port%27Alba.jpg/960px-Napoli_-_Port%27Alba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -825,37 +703,30 @@
     "label": "Foto: Piazza Dante"
   },
   "75": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Spaccanapoli_da_s_Elmo_1050131.JPG/960px-Spaccanapoli_da_s_Elmo_1050131.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Spaccanapoli_da_s_Elmo_1050131.JPG",
-    "author": "Lalupa",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "file": "File:Spaccanapoli da s Elmo 1050131.JPG",
-    "local": "assets/napoli-2.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Centro storico"
+    "kind": "none",
+    "local": "",
+    "source": "",
+    "label": "Foto non ancora disponibile"
   },
   "76": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Rione_Sanit%C3%A0_%28Naples%29.jpg/960px-Rione_Sanit%C3%A0_%28Naples%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Rione_Sanit%C3%A0_(Naples).jpg",
-    "author": "Alexandre",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "file": "File:Rione Sanità (Naples).jpg",
-    "local": "assets/napoli-22.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Sanità"
+    "url": "https://www.concettinaaitresanti.com/wp-content/uploads/2024/05/pizza-sono-pazzo-di-te-650x650.jpg",
+    "local": "https://www.concettinaaitresanti.com/wp-content/uploads/2024/05/pizza-sono-pazzo-di-te-650x650.jpg",
+    "source": "https://www.concettinaaitresanti.com/",
+    "author": "Concettina ai Tre Santi",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.concettinaaitresanti.com/",
+    "kind": "place",
+    "label": "Foto: Concettina ai Tre Santi"
   },
   "77": {
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Rione_Sanit%C3%A0_%28Naples%29.jpg/960px-Rione_Sanit%C3%A0_%28Naples%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Rione_Sanit%C3%A0_(Naples).jpg",
-    "author": "Alexandre",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Poppella_Esterno_negozio.jpg/960px-Poppella_Esterno_negozio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "local": "assets/specific-77.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Poppella_Esterno_negozio.jpg",
+    "author": "Bloomediait",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "file": "File:Rione Sanità (Naples).jpg",
-    "local": "assets/napoli-22.jpg",
-    "kind": "area",
-    "label": "Foto della zona: Sanità"
+    "kind": "place",
+    "label": "Foto: Poppella – Sanità"
   },
   "78": {
     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Santa_Maria_della_Sanit%C3%A0_2012.jpg/960px-Santa_Maria_della_Sanit%C3%A0_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
