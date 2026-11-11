@@ -21,3 +21,5 @@ GitHub Pages dal branch main, cartella root. index.html contiene il codice appli
 Vicino a me: filtri indipendenti per categoria, applicati ai risultati GPS o al punto indicativo della zona. Cambiare categoria aggiorna le fasce di cammino senza chiedere nuovamente la posizione.
 
 Esplora senza filtro zona. Vicino a me ordinato per distanza, con categoria e Solo imperdibili. Selezione modificabile in imperdibili.html, salvata nel browser ed esportabile per pubblicarla come impostazione predefinita. Gli imperdibili delle zone dei quattro giri sono inclusi nelle tappe o nelle soste.
+
+Selezione del proprietario pubblicata: 33 imperdibili, elencati in imperdibili.json. Nuova versione delle preferenze locali per evitare che la selezione provvisoria precedente sovrascriva quella ufficiale. Le soste verso Sanità, Stazione e Materdei sono indicate come deviazioni dal giro del centro storico.

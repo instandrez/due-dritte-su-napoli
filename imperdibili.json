@@ -1,0 +1,171 @@
+{
+  "imperdibili": [
+    0,
+    1,
+    2,
+    5,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14,
+    17,
+    21,
+    23,
+    24,
+    25,
+    26,
+    27,
+    29,
+    31,
+    32,
+    33,
+    35,
+    37,
+    38,
+    39,
+    42,
+    44,
+    64,
+    68,
+    69,
+    70,
+    71,
+    77
+  ],
+  "posti": [
+    {
+      "id": 0,
+      "nome": "Cappella Sansevero"
+    },
+    {
+      "id": 1,
+      "nome": "Spaccanapoli"
+    },
+    {
+      "id": 2,
+      "nome": "San Gregorio Armeno"
+    },
+    {
+      "id": 5,
+      "nome": "Piazza del Plebiscito"
+    },
+    {
+      "id": 8,
+      "nome": "Da Michele"
+    },
+    {
+      "id": 9,
+      "nome": "Sorbillo"
+    },
+    {
+      "id": 10,
+      "nome": "Di Matteo"
+    },
+    {
+      "id": 11,
+      "nome": "Tandem Ragù"
+    },
+    {
+      "id": 12,
+      "nome": "Scaturchio"
+    },
+    {
+      "id": 14,
+      "nome": "Sfogliatelle Attanasio"
+    },
+    {
+      "id": 17,
+      "nome": "Lungomare Caracciolo"
+    },
+    {
+      "id": 21,
+      "nome": "Baretti di Chiaia"
+    },
+    {
+      "id": 23,
+      "nome": "Via Toledo"
+    },
+    {
+      "id": 24,
+      "nome": "Via Chiaia"
+    },
+    {
+      "id": 25,
+      "nome": "Via Scarlatti"
+    },
+    {
+      "id": 26,
+      "nome": "Mimì alla Ferrovia"
+    },
+    {
+      "id": 27,
+      "nome": "Salumeria Upnea"
+    },
+    {
+      "id": 29,
+      "nome": "Caffè Letterario Intra Moenia"
+    },
+    {
+      "id": 31,
+      "nome": "Sfogliatella Mary"
+    },
+    {
+      "id": 32,
+      "nome": "Pintauro"
+    },
+    {
+      "id": 33,
+      "nome": "Via Filangieri"
+    },
+    {
+      "id": 35,
+      "nome": "Locanda 'Ntretella"
+    },
+    {
+      "id": 37,
+      "nome": "Starita a Materdei"
+    },
+    {
+      "id": 38,
+      "nome": "Pizzeria Salvo – Riviera di Chiaia"
+    },
+    {
+      "id": 39,
+      "nome": "L'Antiquario"
+    },
+    {
+      "id": 42,
+      "nome": "50 Kalò"
+    },
+    {
+      "id": 44,
+      "nome": "Ascensore di Monte Echia"
+    },
+    {
+      "id": 64,
+      "nome": "Galleria Umberto I"
+    },
+    {
+      "id": 68,
+      "nome": "Via dei Mille"
+    },
+    {
+      "id": 69,
+      "nome": "Port’Alba"
+    },
+    {
+      "id": 70,
+      "nome": "Castel dell'Ovo"
+    },
+    {
+      "id": 71,
+      "nome": "Maschio Angioino (Castel Nuovo)"
+    },
+    {
+      "id": 77,
+      "nome": "Poppella – Sanità"
+    }
+  ]
+}
