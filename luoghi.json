@@ -922,5 +922,65 @@
     "coordinatePrecision": "place",
     "addedOn": "2026-11-11",
     "selection": "Suggested expansion; must-see flag to be chosen by owner"
+  },
+  {
+    "id": 70,
+    "name": "Castel dell'Ovo",
+    "category": "vedere",
+    "zone": "Lungomare",
+    "address": "Via Eldorado 3, Napoli",
+    "description": "Castello sul mare presso Borgo Marinari. Verifica l’accessibilità degli interni prima della visita.",
+    "source": "https://www.comune.napoli.it/",
+    "lat": 40.8277417,
+    "lon": 14.2480285,
+    "coordinateSource": "OpenStreetMap / Nominatim"
+  },
+  {
+    "id": 71,
+    "name": "Maschio Angioino (Castel Nuovo)",
+    "category": "vedere",
+    "zone": "Centro",
+    "address": "Via Vittorio Emanuele III, Napoli",
+    "description": "Castello monumentale accanto a Piazza Municipio, con il Museo Civico. Verifica i percorsi visitabili.",
+    "source": "https://innovazione.comune.napoli.it/index.php?n=2437",
+    "lat": 40.8383171,
+    "lon": 14.2537307,
+    "coordinateSource": "OpenStreetMap / Nominatim"
+  },
+  {
+    "id": 72,
+    "name": "Piazza dei Martiri",
+    "category": "vedere",
+    "zone": "Chiaia",
+    "address": "Piazza dei Martiri, Napoli",
+    "description": "Piazza di Chiaia con il monumento dei quattro leoni, tra via Chiaia, boutique e locali.",
+    "source": "https://napoliforme.comune.napoli.it/en/pois/-/poi/Piazza-dei-Martiri",
+    "lat": 40.8343086,
+    "lon": 14.2417794,
+    "coordinateSource": "OpenStreetMap / Nominatim"
+  },
+  {
+    "id": 73,
+    "name": "Piazza Municipio",
+    "category": "vedere",
+    "zone": "Centro",
+    "address": "Piazza Municipio, Napoli",
+    "description": "Grande piazza tra Palazzo San Giacomo, Maschio Angioino e porto, con la Fontana del Nettuno.",
+    "source": "https://multimediale.comune.napoli.it/index.php?n=9581",
+    "lat": 40.8396081,
+    "lon": 14.2527749,
+    "coordinateSource": "OpenStreetMap / Nominatim"
+  },
+  {
+    "id": 74,
+    "name": "Piazza Dante",
+    "category": "vedere",
+    "zone": "Centro storico",
+    "address": "Piazza Dante, Napoli",
+    "description": "Piazza con la statua di Dante e il Foro Carolino, vicino a Port’Alba e al centro storico.",
+    "source": "https://napoliforme.comune.napoli.it/",
+    "lat": 40.8491564,
+    "lon": 14.250303,
+    "coordinateSource": "OpenStreetMap / Nominatim"
   }
 ]
