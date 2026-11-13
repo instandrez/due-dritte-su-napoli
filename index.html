@@ -19,8 +19,8 @@ const cats={all:"Tutti",vedere:"Da vedere",mangiare:"Mangiare",panorami:"Panoram
 const defaultHighlights=[0,1,2,5,8,9,10,11,12,14,21,22,23,24,25,26,27,29,30,31,32,33,35,37,38,39,40,41,42,43,44,64,68,69,70,71,77,81];
 function readHighlights(){try{const ids=JSON.parse(localStorage.getItem('napoli-highlights-v4'));if(Array.isArray(ids))return ids.filter(id=>Number.isInteger(id)&&places.some(p=>p.id===id))}catch{}return defaultHighlights}
 const highlights=new Set(readHighlights());
-const maps=p=>`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(p.name+" "+(p.address||"Napoli"))}`;
-const dir=p=>`https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(p.name+" "+(p.address||p.lat+","+p.lon))}&travelmode=walking`;
+const maps=p=>`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(p.id===1?p.lat+","+p.lon:p.name+" "+(p.address||"Napoli"))}`;
+const dir=p=>`https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(p.id===1?p.lat+","+p.lon:p.name+" "+(p.address||p.lat+","+p.lon))}&travelmode=walking`;
 const rad=x=>x*Math.PI/180;
 function dist(a,b){let x=rad(b.lat-a.lat),y=rad(b.lon-a.lon);return 6371000*2*Math.asin(Math.sqrt(Math.sin(x/2)**2+Math.cos(rad(a.lat))*Math.cos(rad(b.lat))*Math.sin(y/2)**2))}
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
