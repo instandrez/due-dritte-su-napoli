@@ -1,5 +1,5 @@
 {
-  "version": "8e468ffdab9f",
+  "version": "63be833c53a7",
   "fields": [
     {
       "id": "places.0.name",
@@ -34,7 +34,7 @@
       "section": "Luoghi",
       "group": "Spaccanapoli",
       "label": "Descrizione",
-      "original": "Asse storico tra chiese, palazzi e botteghe."
+      "original": "Via del centro storico da visitare"
     },
     {
       "id": "places.1.zone",
@@ -55,7 +55,7 @@
       "section": "Luoghi",
       "group": "San Gregorio Armeno",
       "label": "Descrizione",
-      "original": "Via celebre per le botteghe artigiane dei presepi."
+      "original": "Via dei presepi."
     },
     {
       "id": "places.2.zone",
@@ -76,7 +76,7 @@
       "section": "Luoghi",
       "group": "Duomo di Napoli",
       "label": "Descrizione",
-      "original": "Cattedrale e luogo centrale della storia cittadina."
+      "original": "Giusto da vedere al volo ma è fuori dalle zone principali."
     },
     {
       "id": "places.3.zone",
@@ -139,7 +139,7 @@
       "section": "Luoghi",
       "group": "Museo Archeologico Nazionale",
       "label": "Descrizione",
-      "original": "Importanti collezioni archeologiche."
+      "original": "Importanti collezioni archeologiche, la visita dura tanto."
     },
     {
       "id": "places.6.zone",
@@ -181,7 +181,7 @@
       "section": "Luoghi",
       "group": "Da Michele",
       "label": "Descrizione",
-      "original": "Pizzeria storica conosciuta per la pizza tradizionale."
+      "original": "Pizzeria storica, file lunghe ma veloci."
     },
     {
       "id": "places.8.zone",
@@ -202,7 +202,7 @@
       "section": "Luoghi",
       "group": "Sorbillo",
       "label": "Descrizione",
-      "original": "Pizzeria molto nota in via dei Tribunali."
+      "original": "Pizzeria top, fila super lunga, conviene andarci presto (es. 12.00 o 19.00) "
     },
     {
       "id": "places.9.zone",
@@ -223,7 +223,7 @@
       "section": "Luoghi",
       "group": "Di Matteo",
       "label": "Descrizione",
-      "original": "Pizza e fritti nel centro storico."
+      "original": "Famoso per la Frittatina."
     },
     {
       "id": "places.10.zone",
@@ -244,7 +244,7 @@
       "section": "Luoghi",
       "group": "Tandem Ragù",
       "label": "Descrizione",
-      "original": "Cucina napoletana con specialità al ragù."
+      "original": "Famoso per Ragù, ha varie sedi."
     },
     {
       "id": "places.11.zone",
@@ -265,7 +265,7 @@
       "section": "Luoghi",
       "group": "Scaturchio",
       "label": "Descrizione",
-      "original": "Pasticceria tradizionale in piazza San Domenico Maggiore."
+      "original": "Sfogliatella buona."
     },
     {
       "id": "places.12.zone",
@@ -286,7 +286,7 @@
       "section": "Luoghi",
       "group": "Gambrinus",
       "label": "Descrizione",
-      "original": "Storico caffè vicino a Piazza del Plebiscito."
+      "original": "Caffè storico ma costoso se ci si siede ai tavolini."
     },
     {
       "id": "places.13.zone",
@@ -307,7 +307,7 @@
       "section": "Luoghi",
       "group": "Sfogliatelle Attanasio",
       "label": "Descrizione",
-      "original": "Pasticceria nota per sfogliatelle ricce e frolle."
+      "original": "Sfogliatelle migliori di napoli nella zona peggiore di napoli."
     },
     {
       "id": "places.14.zone",
@@ -328,7 +328,7 @@
       "section": "Luoghi",
       "group": "Belvedere San Martino",
       "label": "Descrizione",
-      "original": "Vista panoramica sul centro storico e sul golfo."
+      "original": "Vista panoramica sul centro storico e sul golfo ma è lontano arrivarci"
     },
     {
       "id": "places.15.zone",
@@ -349,7 +349,7 @@
       "section": "Luoghi",
       "group": "Castel Sant'Elmo",
       "label": "Descrizione",
-      "original": "Fortezza con ampie vedute sulla città."
+      "original": "Fortezza con ampie vedute sulla città, poco da vedere all'interno (non vale la pena) "
     },
     {
       "id": "places.16.zone",
@@ -370,7 +370,7 @@
       "section": "Luoghi",
       "group": "Lungomare Caracciolo",
       "label": "Descrizione",
-      "original": "Passeggiata sul mare con vista sul Vesuvio."
+      "original": "Lungomare pieno di ristoranti"
     },
     {
       "id": "places.17.zone",
@@ -391,7 +391,7 @@
       "section": "Luoghi",
       "group": "Borgo Marinari",
       "label": "Descrizione",
-      "original": "Piccolo borgo sul mare presso Castel dell'Ovo."
+      "original": "Piccolo borgo sul mare presso Castel dell'Ovo, ci sta giusto una passeggiata."
     },
     {
       "id": "places.18.zone",
@@ -412,7 +412,7 @@
       "section": "Luoghi",
       "group": "Parco Virgiliano",
       "label": "Descrizione",
-      "original": "Parco panoramico con viste sulla costa e sulle isole."
+      "original": "Parco panoramico con viste sulla costa e sulle isole ma molto fuori mano."
     },
     {
       "id": "places.19.zone",
@@ -433,7 +433,7 @@
       "section": "Luoghi",
       "group": "Piazza Bellini",
       "label": "Descrizione",
-      "original": "Zona vivace per aperitivi e serate informali."
+      "original": "Zona vivace (tipo san Salvario) "
     },
     {
       "id": "places.20.zone",
@@ -454,7 +454,7 @@
       "section": "Luoghi",
       "group": "Baretti di Chiaia",
       "label": "Descrizione",
-      "original": "Area con numerosi locali per la sera."
+      "original": "Zona piena di localini della Napoli bene."
     },
     {
       "id": "places.21.zone",
@@ -559,7 +559,7 @@
       "section": "Luoghi",
       "group": "Mimì alla Ferrovia",
       "label": "Descrizione",
-      "original": "Cucina napoletana in uno storico ristorante vicino alla stazione."
+      "original": "Cucina napoletana top, è lontano dal centro ed in una brutta zona ma è da provare."
     },
     {
       "id": "places.26.zone",
@@ -664,7 +664,7 @@
       "section": "Luoghi",
       "group": "Sfogliatella Mary",
       "label": "Descrizione",
-      "original": "Sfogliatelle ricce e frolle all'ingresso della Galleria Umberto I, dal lato di via Toledo."
+      "original": "Sfogliatelle e dolci validi."
     },
     {
       "id": "places.31.zone",
@@ -748,7 +748,7 @@
       "section": "Luoghi",
       "group": "Locanda 'Ntretella",
       "label": "Descrizione",
-      "original": "Trattoria di cucina napoletana in salita Sant'Anna di Palazzo."
+      "original": "Bella trattoria dentro i vicoli ai quartieri spagnoli"
     },
     {
       "id": "places.35.zone",
@@ -769,7 +769,7 @@
       "section": "Luoghi",
       "group": "Il Gobbetto",
       "label": "Descrizione",
-      "original": "Osteria di cucina napoletana nei vicoli vicino a via Toledo."
+      "original": "Osteria di cucina napoletana nei vicoli vicino a via Toledo (proprio all'inizio dei quariteri) "
     },
     {
       "id": "places.36.zone",
@@ -790,7 +790,7 @@
       "section": "Luoghi",
       "group": "Starita a Materdei",
       "label": "Descrizione",
-      "original": "Pizzeria di Materdei con pizze napoletane e fritti."
+      "original": "Pizzeria tra le top a Napoli"
     },
     {
       "id": "places.37.zone",
@@ -832,7 +832,7 @@
       "section": "Luoghi",
       "group": "L'Antiquario",
       "label": "Descrizione",
-      "original": "Cocktail bar a Chiaia, in un ambiente raccolto d'ispirazione rétro."
+      "original": "Speakeasy molto figo e cocktail top."
     },
     {
       "id": "places.39.zone",
@@ -916,7 +916,7 @@
       "section": "Luoghi",
       "group": "Cicciotto a Marechiaro",
       "label": "Descrizione",
-      "original": "Ristorante di pesce nel borgo di Marechiaro, affacciato sul mare."
+      "original": "Sul mare super romantico e costoso, difficile arrivarci."
     },
     {
       "id": "places.43.zone",
@@ -937,7 +937,7 @@
       "section": "Luoghi",
       "group": "Ascensore di Monte Echia",
       "label": "Descrizione",
-      "original": "Collega Santa Lucia al belvedere di Pizzofalcone. Sali per il panorama; verifica servizio e biglietti sul sito ANM."
+      "original": "Questo vale la pena, si sale con un ascensore pubblico e c'è una vista fantastica."
     },
     {
       "id": "places.44.zone",
@@ -1840,35 +1840,35 @@
       "section": "Itinerari",
       "group": "Lungomare e Borgo Marinari",
       "label": "Etichetta",
-      "original": "Giro breve · a piedi e in piano"
+      "original": ""
     },
     {
       "id": "walks.mare.intro",
       "section": "Itinerari",
       "group": "Lungomare e Borgo Marinari",
       "label": "Descrizione breve",
-      "original": "Una passeggiata breve dal Santa Lucia al Borgo Marinari e sul lungomare, dove trovi tantissimi ristoranti."
+      "original": "Passeggiata breve dal Santa Lucia al Borgo Marinari e sul lungomare, dove trovi tantissimi ristoranti."
     },
     {
       "id": "walks.mare.note",
       "section": "Itinerari",
       "group": "Lungomare e Borgo Marinari",
       "label": "Nota",
-      "original": "Puoi fermarti per mangiare nel borgo o lungo Via Partenope e rientrare sullo stesso lungomare."
+      "original": ""
     },
     {
       "id": "walks.mare.story",
       "section": "Itinerari",
       "group": "Lungomare e Borgo Marinari",
       "label": "Descrizione completa",
-      "original": "È un giro breve e quasi tutto in piano. Dal Santa Lucia raggiungi il Borgo Marinari e Castel dell’Ovo, poi passeggi sul lungomare verso Via Caracciolo. Lungo Via Partenope trovi tantissimi ristoranti: tra le soste possibili ci sono Antonio & Antonio, Zi Teresa e Fresco."
+      "original": "Dal Santa Lucia raggiungi il Borgo Marinari e Castel dell’Ovo, poi passeggi sul lungomare verso Via Caracciolo. Lungo Via Partenope trovi tantissimi ristoranti: tra le soste possibili ci sono Antonio & Antonio, Zi Teresa e Fresco."
     },
     {
       "id": "walks.mare.base.extra",
       "section": "Itinerari",
       "group": "Lungomare e Borgo Marinari",
       "label": "Nota finale · Borgo e lungomare",
-      "original": "Monte Echia è una salita panoramica facoltativa, separata dalla passeggiata in piano. La terrazza di Castel dell’Ovo si può visitare solo quando gli accessi al castello lo consentono."
+      "original": ""
     },
     {
       "id": "walks.mare.base.stop.0.name",
@@ -1882,7 +1882,7 @@
       "section": "Itinerari",
       "group": "Lungomare e Borgo Marinari",
       "label": "Tappa 1 · indicazioni",
-      "original": "Si parte dal tuo hotel, in Via Partenope 46."
+      "original": "Si parte dal tuo hotel, in Via Partenope"
     },
     {
       "id": "walks.mare.base.stop.1.name",
@@ -1994,7 +1994,7 @@
       "section": "Itinerari",
       "group": "Chiaia fino a Piazza del Plebiscito",
       "label": "Etichetta",
-      "original": "A piedi · arrivo a Piazza del Plebiscito"
+      "original": ""
     },
     {
       "id": "walks.chiaia.intro",
@@ -2022,7 +2022,7 @@
       "section": "Itinerari",
       "group": "Chiaia fino a Piazza del Plebiscito",
       "label": "Nota finale · Chiaia e Plebiscito",
-      "original": "Piazza del Plebiscito è il punto di collegamento tra questo giro e quello del centro storico."
+      "original": ""
     },
     {
       "id": "walks.chiaia.plebiscito.stop.0.name",
@@ -2036,7 +2036,7 @@
       "section": "Itinerari",
       "group": "Chiaia fino a Piazza del Plebiscito",
       "label": "Tappa 1 · indicazioni",
-      "original": "Si parte dal tuo hotel, in Via Partenope 46."
+      "original": "Si parte dal tuo hotel, in Via Partenope."
     },
     {
       "id": "walks.chiaia.plebiscito.stop.1.name",
@@ -2074,11 +2074,25 @@
       "original": "Via Filangieri"
     },
     {
+      "id": "walks.chiaia.plebiscito.stop.3.note",
+      "section": "Itinerari",
+      "group": "Chiaia fino a Piazza del Plebiscito",
+      "label": "Tappa 4 · indicazioni",
+      "original": ""
+    },
+    {
       "id": "walks.chiaia.plebiscito.stop.4.name",
       "section": "Itinerari",
       "group": "Chiaia fino a Piazza del Plebiscito",
       "label": "Tappa 5 · nome",
       "original": "Via dei Mille"
+    },
+    {
+      "id": "walks.chiaia.plebiscito.stop.4.note",
+      "section": "Itinerari",
+      "group": "Chiaia fino a Piazza del Plebiscito",
+      "label": "Tappa 5 · indicazioni",
+      "original": ""
     },
     {
       "id": "walks.chiaia.plebiscito.stop.5.name",
@@ -2195,343 +2209,364 @@
     {
       "id": "walks.storico.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Titolo",
-      "original": "Da Plebiscito al centro storico"
+      "original": "Giro degli imperdibili del centro storico"
     },
     {
       "id": "walks.storico.tag",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Etichetta",
       "original": "A piedi · partenza da Piazza del Plebiscito"
     },
     {
       "id": "walks.storico.intro",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Descrizione breve",
-      "original": "Riparti da Piazza del Plebiscito, attraversa il centro monumentale e raggiungi Piazza del Gesù, San Domenico e i decumani."
+      "original": "Parti da Piazza del Plebiscito, attraversa il centro storico e raggiungi Piazza del Gesù, San Domenico e i decumani."
     },
     {
       "id": "walks.storico.note",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Nota",
-      "original": "Puoi fare questo giro da solo oppure subito dopo quello di Chiaia. Il punto di partenza è Piazza del Plebiscito."
+      "original": ""
     },
     {
       "id": "walks.storico.story",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Descrizione completa",
       "original": "Questo giro parte da Piazza del Plebiscito, dove termina quello di Chiaia. Passa dal Maschio Angioino, dalla Galleria e da Via Toledo, poi raggiunge Piazza del Gesù attraverso Monteoliveto. Continua tra Cappella Sansevero, Piazza San Domenico, San Biagio dei Librai, San Gregorio Armeno e Via dei Tribunali; passa da Piazza Bellini e Port’Alba e torna a Piazza del Gesù."
     },
     {
       "id": "walks.storico.gesu.extra",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Nota finale · Da Plebiscito al centro storico",
-      "original": "Duomo e Napoli Sotterranea sono possibili visite aggiuntive. Le soste a Sanità, Materdei e vicino alla stazione richiedono una deviazione."
+      "original": ""
     },
     {
       "id": "walks.storico.gesu.stop.0.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 1 · nome",
       "original": "Piazza del Plebiscito"
     },
     {
       "id": "walks.storico.gesu.stop.0.note",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 1 · indicazioni",
       "original": "Parti da Piazza del Plebiscito, dove termina l’itinerario di Chiaia."
     },
     {
       "id": "walks.storico.gesu.stop.1.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 2 · nome",
       "original": "Maschio Angioino (Castel Nuovo)"
     },
     {
       "id": "walks.storico.gesu.stop.1.note",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 2 · indicazioni",
       "original": "Raggiungi il Maschio Angioino dal centro monumentale."
     },
     {
       "id": "walks.storico.gesu.stop.2.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 3 · nome",
       "original": "Galleria Umberto I"
     },
     {
       "id": "walks.storico.gesu.stop.2.note",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 3 · indicazioni",
       "original": "Torna verso la Galleria e attraversala prima di risalire Via Toledo."
     },
     {
       "id": "walks.storico.gesu.stop.3.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 4 · nome",
       "original": "Via Toledo"
     },
     {
       "id": "walks.storico.gesu.stop.3.note",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 4 · indicazioni",
       "original": "Risali Via Toledo fino alla zona di Piazza Carità."
     },
     {
       "id": "walks.storico.gesu.stop.4.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 5 · nome",
       "original": "Monteoliveto"
     },
     {
       "id": "walks.storico.gesu.stop.4.note",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 5 · indicazioni",
       "original": "Da Via Monteoliveto raggiungi Piazza del Gesù."
     },
     {
       "id": "walks.storico.gesu.stop.5.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 6 · nome",
       "original": "Piazza del Gesù Nuovo"
     },
     {
+      "id": "walks.storico.gesu.stop.5.note",
+      "section": "Itinerari",
+      "group": "Giro degli imperdibili del centro storico",
+      "label": "Tappa 6 · indicazioni",
+      "original": ""
+    },
+    {
       "id": "walks.storico.gesu.stop.6.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 7 · nome",
       "original": "Cappella Sansevero"
     },
     {
       "id": "walks.storico.gesu.stop.6.note",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 7 · indicazioni",
       "original": "Se vuoi visitare la Cappella Sansevero, prenota e verifica gli accessi."
     },
     {
       "id": "walks.storico.gesu.stop.7.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 8 · nome",
       "original": "Piazza San Domenico Maggiore"
     },
     {
+      "id": "walks.storico.gesu.stop.7.note",
+      "section": "Itinerari",
+      "group": "Giro degli imperdibili del centro storico",
+      "label": "Tappa 8 · indicazioni",
+      "original": ""
+    },
+    {
       "id": "walks.storico.gesu.stop.8.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 9 · nome",
       "original": "Via San Biagio dei Librai"
     },
     {
       "id": "walks.storico.gesu.stop.8.note",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 9 · indicazioni",
       "original": "Prosegui lungo il decumano inferiore, tra botteghe e palazzi."
     },
     {
       "id": "walks.storico.gesu.stop.9.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 10 · nome",
       "original": "San Gregorio Armeno"
     },
     {
       "id": "walks.storico.gesu.stop.9.note",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 10 · indicazioni",
       "original": "Attraversa la strada delle botteghe dei presepi."
     },
     {
       "id": "walks.storico.gesu.stop.10.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 11 · nome",
       "original": "Via dei Tribunali"
     },
     {
       "id": "walks.storico.gesu.stop.10.note",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 11 · indicazioni",
       "original": "Da San Gregorio Armeno risali a Via dei Tribunali, poi torna verso Piazza Bellini."
     },
     {
       "id": "walks.storico.gesu.stop.11.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 12 · nome",
       "original": "Piazza Bellini"
     },
     {
       "id": "walks.storico.gesu.stop.11.note",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 12 · indicazioni",
       "original": "Puoi fermarti in Piazza Bellini prima di tornare verso Piazza del Gesù."
     },
     {
       "id": "walks.storico.gesu.stop.12.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 13 · nome",
       "original": "Port’Alba"
     },
     {
+      "id": "walks.storico.gesu.stop.12.note",
+      "section": "Itinerari",
+      "group": "Giro degli imperdibili del centro storico",
+      "label": "Tappa 13 · indicazioni",
+      "original": ""
+    },
+    {
       "id": "walks.storico.gesu.stop.13.name",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 14 · nome",
       "original": "Piazza del Gesù Nuovo"
     },
     {
       "id": "walks.storico.gesu.stop.13.note",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Tappa 14 · indicazioni",
       "original": "Il giro torna a Piazza del Gesù, vicino a Santa Chiara."
     },
     {
       "id": "walks.storico.gesu.food.31",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Sfogliatella Mary",
       "original": "In Galleria"
     },
     {
       "id": "walks.storico.gesu.food.32",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Pintauro",
       "original": "Su Via Toledo"
     },
     {
       "id": "walks.storico.gesu.food.80",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Mattozzi – Piazza Carità",
       "original": "Piazza Carità, lungo Via Toledo"
     },
     {
       "id": "walks.storico.gesu.food.35",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Locanda 'Ntretella",
       "original": "Deviazione nei Quartieri Spagnoli"
     },
     {
       "id": "walks.storico.gesu.food.36",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Il Gobbetto",
       "original": "Deviazione nei Quartieri Spagnoli"
     },
     {
       "id": "walks.storico.gesu.food.12",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Scaturchio",
       "original": "Piazza San Domenico"
     },
     {
       "id": "walks.storico.gesu.food.11",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Tandem Ragù",
       "original": "Zona San Domenico"
     },
     {
       "id": "walks.storico.gesu.food.54",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · La Locanda Gesù Vecchio",
       "original": "Via Paladino"
     },
     {
       "id": "walks.storico.gesu.food.9",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Sorbillo",
       "original": "Via dei Tribunali"
     },
     {
       "id": "walks.storico.gesu.food.10",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Di Matteo",
       "original": "Via dei Tribunali"
     },
     {
       "id": "walks.storico.gesu.food.8",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Da Michele",
       "original": "Deviazione verso Forcella"
     },
     {
       "id": "walks.storico.gesu.food.29",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Caffè Letterario Intra Moenia",
       "original": "Piazza Bellini"
     },
     {
       "id": "walks.storico.gesu.food.27",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Salumeria Upnea",
       "original": "Deviazione verso Orientale e Banchi Nuovi"
     },
     {
       "id": "walks.storico.gesu.food.28",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Tappò Tapas Bar",
       "original": "Via Mezzocannone"
     },
     {
       "id": "walks.storico.gesu.food.77",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Poppella – Sanità",
       "original": "Deviazione verso la Sanità, fuori dal giro principale"
     },
     {
       "id": "walks.storico.gesu.food.37",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Starita a Materdei",
       "original": "Deviazione verso Materdei, fuori dal giro principale"
     },
     {
       "id": "walks.storico.gesu.food.14",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Sfogliatelle Attanasio",
       "original": "Deviazione verso la stazione, fuori dal giro principale"
     },
     {
       "id": "walks.storico.gesu.food.26",
       "section": "Itinerari",
-      "group": "Da Plebiscito al centro storico",
+      "group": "Giro degli imperdibili del centro storico",
       "label": "Sosta · Mimì alla Ferrovia",
       "original": "Deviazione verso la stazione, fuori dal giro principale"
     },
@@ -2547,7 +2582,7 @@
       "section": "Itinerari",
       "group": "Vomero e San Martino",
       "label": "Etichetta",
-      "original": "Funicolare + passeggiata · salita facoltativa"
+      "original": ""
     },
     {
       "id": "walks.vomero.intro",
@@ -2625,6 +2660,13 @@
       "group": "Vomero e San Martino",
       "label": "Tappa 4 · nome",
       "original": "Piazza Vanvitelli"
+    },
+    {
+      "id": "walks.vomero.base.stop.3.note",
+      "section": "Itinerari",
+      "group": "Vomero e San Martino",
+      "label": "Tappa 4 · indicazioni",
+      "original": ""
     },
     {
       "id": "walks.vomero.base.stop.4.name",
@@ -2718,6 +2760,13 @@
       "original": "Piazza Vanvitelli"
     },
     {
+      "id": "walks.vomero.sanmartino.stop.3.note",
+      "section": "Itinerari",
+      "group": "Vomero e San Martino",
+      "label": "Tappa 4 · indicazioni",
+      "original": ""
+    },
+    {
       "id": "walks.vomero.sanmartino.stop.4.name",
       "section": "Itinerari",
       "group": "Vomero e San Martino",
@@ -2751,6 +2800,13 @@
       "group": "Vomero e San Martino",
       "label": "Tappa 7 · nome",
       "original": "Belvedere San Martino"
+    },
+    {
+      "id": "walks.vomero.sanmartino.stop.6.note",
+      "section": "Itinerari",
+      "group": "Vomero e San Martino",
+      "label": "Tappa 7 · indicazioni",
+      "original": ""
     },
     {
       "id": "walks.vomero.sanmartino.stop.7.name",
@@ -3233,241 +3289,227 @@
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Oppure scegli dove ti trovi"
+      "original": "· Solo imperdibili"
     },
     {
       "id": "ui.63",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Cerca da questa zona"
+      "original": "Circa"
     },
     {
       "id": "ui.64",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Usa un punto indicativo della zona, senza GPS."
+      "original": "min a piedi"
     },
     {
       "id": "ui.65",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Apri in una nuova finestra del browser"
+      "original": "Nessun posto con questi filtri. Prova un’altra categoria o disattiva “Solo imperdibili”."
     },
     {
       "id": "ui.66",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "· Solo imperdibili"
+      "original": "La posizione richiede una connessione HTTPS. Apri la guida dal link pubblico."
     },
     {
       "id": "ui.67",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Circa"
+      "original": "Posizione non disponibile in questo browser. Controlla che il dispositivo supporti la localizzazione."
     },
     {
       "id": "ui.68",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "min a piedi"
+      "original": "Richiesta posizione… Consenti l’accesso nel browser. Se non compare una richiesta, controlla i permessi del sito."
     },
     {
       "id": "ui.69",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Nessun posto con questi filtri. Prova un’altra categoria o disattiva “Solo imperdibili”."
+      "original": "Posizione acquisita (precisione circa"
     },
     {
       "id": "ui.70",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Distanze dal punto indicativo di"
+      "original": "m). Distanze in linea d’aria."
     },
     {
       "id": "ui.71",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "La posizione richiede HTTPS o localhost. Per ora scegli la zona qui sotto."
+      "original": "Accesso alla posizione negato dal browser o dal sistema. Consenti la posizione nelle impostazioni del sito e riprova."
     },
     {
       "id": "ui.72",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Posizione non disponibile in questo browser. Scegli la zona qui sotto."
+      "original": "Il dispositivo non ha restituito la posizione in tempo. Riprova all’aperto e controlla che la localizzazione sia attiva."
     },
     {
       "id": "ui.73",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Richiesta posizione… Consenti l’accesso nel browser. Se non compare una richiesta, usa la scelta della zona."
+      "original": "Posizione non disponibile dal dispositivo. Controlla i permessi e riprova."
     },
     {
       "id": "ui.74",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Posizione acquisita (precisione circa"
+      "original": "Grand Hotel Santa Lucia"
     },
     {
       "id": "ui.75",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "m). Distanze in linea d’aria."
+      "original": "Via Partenope, 46 · Il tuo hotel"
     },
     {
       "id": "ui.76",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Accesso alla posizione negato dal browser o dal sistema. Consenti la posizione nelle impostazioni del sito, oppure scegli la zona qui sotto."
+      "original": "Sei qui · precisione circa"
     },
     {
       "id": "ui.77",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Il dispositivo non ha restituito la posizione in tempo. Riprova oppure scegli la zona qui sotto."
+      "original": "Posizione aggiornata · precisione circa"
     },
     {
       "id": "ui.78",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Posizione non disponibile dal dispositivo. Prova nel browser esterno oppure scegli la zona qui sotto."
+      "original": "m. Premi di nuovo per aggiornarla."
     },
     {
       "id": "ui.79",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Grand Hotel Santa Lucia"
+      "original": "La mappa non è disponibile. Controlla la connessione e ricarica."
     },
     {
       "id": "ui.80",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Via Partenope, 46 · Il tuo hotel"
+      "original": "Posizione non supportata dal browser."
     },
     {
       "id": "ui.81",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Sei qui · precisione circa"
+      "original": "Ricerca posizione… Consenti l’accesso nel browser."
     },
     {
       "id": "ui.82",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Posizione aggiornata · precisione circa"
+      "original": "Permesso negato. Consenti la posizione nelle impostazioni del sito e riprova."
     },
     {
       "id": "ui.83",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "m. Premi di nuovo per aggiornarla."
+      "original": "La richiesta è scaduta. Premi di nuovo per riprovare."
     },
     {
       "id": "ui.84",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "La mappa non è disponibile. Controlla la connessione e ricarica."
+      "original": "Il dispositivo non riesce a rilevare la posizione. Riprova."
     },
     {
       "id": "ui.85",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Posizione non supportata dal browser."
+      "original": "Immagine di repertorio"
     },
     {
       "id": "ui.86",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Ricerca posizione… Consenti l’accesso nel browser."
+      "original": "Guarda il giro →"
     },
     {
       "id": "ui.87",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Permesso negato. Consenti la posizione nelle impostazioni del sito e riprova."
+      "original": "Punto di partenza"
     },
     {
       "id": "ui.88",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "La richiesta è scaduta. Premi di nuovo per riprovare."
+      "original": "Tratto in funicolare · Augusteo → Piazza Fuga"
     },
     {
       "id": "ui.89",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Il dispositivo non riesce a rilevare la posizione. Riprova."
+      "original": "Voglio salire anche al panorama e al castello · salita a piedi"
     },
     {
       "id": "ui.90",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Immagine di repertorio"
+      "original": "Nessun posto con questi filtri. Prova un’altra ricerca o categoria."
     },
     {
       "id": "ui.91",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Guarda il giro →"
+      "original": "Usa un punto indicativo della zona, senza GPS."
     },
     {
       "id": "ui.92",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Punto di partenza"
+      "original": "Cerca da questa zona"
     },
     {
       "id": "ui.93",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
-      "original": "Tratto in funicolare · Augusteo → Piazza Fuga"
+      "original": "Apri in una nuova finestra del browser"
     },
     {
       "id": "ui.94",
-      "section": "Interfaccia",
-      "group": "Etichette e messaggi",
-      "label": "Testo",
-      "original": "Voglio salire anche al panorama e al castello · salita a piedi"
-    },
-    {
-      "id": "ui.95",
-      "section": "Interfaccia",
-      "group": "Etichette e messaggi",
-      "label": "Testo",
-      "original": "Nessun posto con questi filtri. Prova un’altra ricerca o categoria."
-    },
-    {
-      "id": "ui.96",
       "section": "Interfaccia",
       "group": "Etichette e messaggi",
       "label": "Testo",
