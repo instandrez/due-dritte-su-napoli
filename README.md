@@ -27,3 +27,5 @@ Selezione del proprietario pubblicata: 33 imperdibili, elencati in imperdibili.j
 Aggiunto Cicciotto a Marechiaro: 34 imperdibili ufficiali.
 
 13 novembre 2026: catalogo di 86 posti, 38 imperdibili. Nei panorami è imperdibile solo Monte Echia. Chiaia termina a Plebiscito; il centro storico parte dalla stessa piazza. Nuovi locali con foto; terrazza del castello con avviso di accessibilità. testi.html permette di modificare una bozza locale dei testi ed esportare solo le correzioni da pubblicare.
+
+Rimosso il riquadro per la scelta manuale della zona in Vicino a me. Restano GPS, categorie e Solo imperdibili.
