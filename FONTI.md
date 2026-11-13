@@ -35,3 +35,11 @@ Per Ruri Kaiseki: [Gambero Rosso](https://www.gamberorosso.it/locali/ruri-kaisek
 - **Poppella – Sanità** · Via Arena della Sanità 29 · [Fonte](https://www.gamberorosso.it/luoghi/locali/pasticceria/poppella-2/)
 - **Basilica di Santa Maria della Sanità** · Piazza Sanità · [Fonte](https://catacombedinapoli.it/it/luoghi/basilica-di-santa-maria-sanita-napoli/)
 - **Palazzo dello Spagnolo** · Via Vergini 19 · [Fonte](https://napoliforme.comune.napoli.it/)
+
+## Aggiornamento 13 novembre 2026
+- Mattozzi, Piazza Carità 2: https://www.ristorantemattozzi.it/
+- Salumeria Alcolica, Piazza Giulio Rodinò 33: https://www.waze.com/live-map/directions/it/campania/napoli/salumeria-alcolica?to=place.ChIJtSoDjSAJOxMROXXswjDa2FQ
+- Antonio & Antonio, Via Partenope 26: https://www.antonioeantonio.it/
+- Zi Teresa, Borgo Marinari 1: https://www.ziteresa.it/contatti/
+- Fresco, Via Partenope 8: https://frescotrattoria.it/location/napoli-via-partenope/
+- Castel dell’Ovo: https://www.comune.napoli.it/casteldellovo ; chiusura per lavori documentata anche nella deliberazione comunale 174/2024. Accessibilità da verificare.

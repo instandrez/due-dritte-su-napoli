@@ -25,3 +25,5 @@ Esplora senza filtro zona. Vicino a me ordinato per distanza, con categoria e So
 Selezione del proprietario pubblicata: 33 imperdibili, elencati in imperdibili.json. Nuova versione delle preferenze locali per evitare che la selezione provvisoria precedente sovrascriva quella ufficiale. Le soste verso Sanità, Stazione e Materdei sono indicate come deviazioni dal giro del centro storico.
 
 Aggiunto Cicciotto a Marechiaro: 34 imperdibili ufficiali.
+
+13 novembre 2026: catalogo di 86 posti, 38 imperdibili. Nei panorami è imperdibile solo Monte Echia. Chiaia termina a Plebiscito; il centro storico parte dalla stessa piazza. Nuovi locali con foto; terrazza del castello con avviso di accessibilità. testi.html permette di modificare una bozza locale dei testi ed esportare solo le correzioni da pubblicare.

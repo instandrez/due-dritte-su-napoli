@@ -928,5 +928,73 @@
     "kind": "place",
     "label": "Foto: Palazzo dello Spagnolo",
     "fallback": "assets/complete-34.jpg"
+  },
+  "80": {
+    "url": "https://www.ristorantemattozzi.it/struttura/sfondi/pizzeria.jpg",
+    "local": "https://www.ristorantemattozzi.it/struttura/sfondi/pizzeria.jpg",
+    "source": "https://www.ristorantemattozzi.it/",
+    "author": "Mattozzi – Piazza Carità",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.ristorantemattozzi.it/",
+    "kind": "place",
+    "label": "Foto: Mattozzi – Piazza Carità",
+    "fallback": "assets/complete-45.jpg"
+  },
+  "81": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Aperitivo_a_Bologna.jpg/960px-Aperitivo_a_Bologna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Aperitivo_a_Bologna.jpg",
+    "author": "Giacomo Alessandroni",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Aperitivo a Bologna",
+    "local": "assets/complete-28.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Salumeria Alcolica – Chiaia",
+    "fallback": "assets/complete-39.jpg"
+  },
+  "82": {
+    "url": "https://www.antonioeantonio.it/wp-content/uploads/2024/10/location-antonio1.webp",
+    "local": "https://www.antonioeantonio.it/wp-content/uploads/2024/10/location-antonio1.webp",
+    "source": "https://www.antonioeantonio.it/",
+    "author": "Antonio & Antonio",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.antonioeantonio.it/",
+    "kind": "place",
+    "label": "Foto: Antonio & Antonio",
+    "fallback": "assets/complete-45.jpg"
+  },
+  "83": {
+    "url": "https://www.ziteresa.it/wp-content/uploads/2019/04/ristorante30-1.jpg",
+    "local": "https://www.ziteresa.it/wp-content/uploads/2019/04/ristorante30-1.jpg",
+    "source": "https://www.ziteresa.it/contatti/",
+    "author": "Zi Teresa",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://www.ziteresa.it/contatti/",
+    "kind": "place",
+    "label": "Foto: Zi Teresa",
+    "fallback": "assets/complete-45.jpg"
+  },
+  "84": {
+    "url": "https://frescotrattoria.it/wp-content/uploads/2023/05/Foto-Partenope_new1.jpg",
+    "local": "https://frescotrattoria.it/wp-content/uploads/2023/05/Foto-Partenope_new1.jpg",
+    "source": "https://frescotrattoria.it/location/napoli-via-partenope/",
+    "author": "Fresco – Lungomare",
+    "license": "© Fonte · immagine incorporata dal sito",
+    "licenseUrl": "https://frescotrattoria.it/location/napoli-via-partenope/",
+    "kind": "place",
+    "label": "Foto: Fresco – Lungomare",
+    "fallback": "assets/complete-45.jpg"
+  },
+  "85": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Borgo_marinari.JPG/960px-Borgo_marinari.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Borgo_marinari.JPG",
+    "author": "Tripiz at Italian Wikipedia",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "file": "File:Borgo marinari.JPG",
+    "local": "assets/napoli-19.jpg",
+    "kind": "repertoire",
+    "label": "Immagine di repertorio · Terrazza di Castel dell’Ovo",
+    "fallback": "assets/napoli-28.jpg"
   }
 }
